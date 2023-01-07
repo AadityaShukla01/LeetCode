@@ -111,7 +111,7 @@ class Solution{
         if(a2->data!=a1->data)
         return false;
         
-        return sol(a1->left,a2->right)&&sol(a1->right,a2->left);
+        return (a2->data==a1->data)&&sol(a1->left,a2->right)&&sol(a1->right,a2->left);
     }
     bool isSymmetric(struct Node* root)
     {

@@ -104,32 +104,40 @@ class Solution
     //from left to right in Binary Tree.
     vector<int> topView(Node *root)
     {
-        //Your code here
+        //ek map banayege jisme saare nodes store
+        //karenge unke horizpontal indx ke saath
         vector<int>res;
-        if(root==NULL)
-        return res;
-        map<int,int>topNode;//map me hum har horizontal index me kitne values hain
-        //wo store kar rahe hain
-        queue<pair<Node*,int>>q;// node or horizontal distance store karne ke liye
+        map<int,int>store;
+        //ek queue banayenge level order traversal ke liye usme node ke saath 
+        //uska horizontal index bi store karenge
+        queue<pair<Node*,int>>q;
+        //pushing inital root in queue;
         q.push(make_pair(root,0));
         
+        //running level order traversal
+        
         while(q.empty()==false){
-            pair<Node*,int> temp=q.front();
+            pair<Node*,int>frontNode=q.front();
             q.pop();
-            Node*frontNode=temp.first;
-            int hd=temp.second;
-            if(topNode.find(hd)==topNode.end())
-                topNode[hd]=frontNode->data;//inserting value if it doent exist at tha 
-                //index
-            if(frontNode->left)
-            q.push(make_pair(frontNode->left,hd-1));
+            //getting current node from it
+            Node*ans=frontNode.first;
+            //getting horizontal ditance from it
+            int hd=frontNode.second;
             
-            if(frontNode->right)
-            q.push(make_pair(frontNode->right,hd+1));
+            //check that only one value miust be there ata index
+            if(store.find(hd)==store.end()){
+                store[hd]=ans->data;
+            }
+            //if left subtree exists go traverse it
+            if(ans->left)
+            q.push(make_pair(ans->left,hd-1));
             
-            
+            if(ans->right)
+            q.push(make_pair(ans->right,hd+1));
         }
-        for(auto i:topNode)
+            
+        
+        for(auto i:store)
         res.push_back(i.second);
         
         return res;

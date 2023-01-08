@@ -103,34 +103,36 @@ class Solution
     //Function to find the vertical order traversal of Binary Tree.
     vector<int> verticalOrder(Node *root)
     {
-        //Your code here
-        map<int,map<int,vector<int>>>map;
-        //is map me horizontal index ki mapping karna
-        queue<pair<Node*,pair<int,int>>>q;
-        q.push(make_pair(root,make_pair(0,0)));
-        vector<int>sai;
-        while(q.empty()==false){
-            pair<Node*,pair<int,int>>temp=q.front();
-            Node*frontNode=temp.first;
+        map<int,vector<int>> mp;
+        queue<pair<Node*,int>> q;
+        vector<int> ans;
+        if(!root)
+        return ans;
+        
+        q.push(make_pair(root,0));
+        while(!q.empty())
+        {
+            pair<Node*,int> p = q.front();
             q.pop();
-            int hd=temp.second.first;
-            int le=temp.second.second;
             
-            map[hd][le].push_back(frontNode->data);
+            Node *curr = p.first;
+            int hd = p.second;
             
-            if(frontNode->left)
-            q.push(make_pair(frontNode->left,make_pair(hd-1,le+1)));
+            mp[hd].push_back(curr->data);
             
-            if(frontNode->right)
-            q.push(make_pair(frontNode->right,make_pair(hd+1,le+1)));
+            if(curr->left)
+            q.push(make_pair(curr->left,hd-1));
+            if(curr->right)
+            q.push(make_pair(curr->right,hd+1));
         }
-        for(auto i:map){
-            for(auto j:i.second){
-                for(auto k:j.second)
-                sai.push_back(k);
+         for(auto it: mp)
+        {
+            for(auto i : it.second)
+            {
+                ans.push_back(i);
             }
         }
-        return sai;
+        return ans;
     }
 };
 

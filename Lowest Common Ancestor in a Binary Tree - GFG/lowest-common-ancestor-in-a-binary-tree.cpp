@@ -41,23 +41,28 @@ class Solution
     Node* lca(Node* root ,int n1 ,int n2 )
     {
        //Your code here 
+       //agar root NULL ho to null return karo-->last tak pauch gaye to
        if(root==NULL)
        return NULL;
-       
+    //   agar root ki data n1 ya n2 ke barabar to root ko return karo
        if(root->data==n1 || root->data==n2)
        return root;
-       
+       //left me traverse kare or right me
        Node*left=lca(root->left,n1,n2);
        Node*right=lca(root->right,n1,n2);
        
+       //agar left or right dono null return na kare to wahi answer rahega
        if(left && right)
        return root;
-       
+       //agar right null per left ni hain null to left return karo
        if(left && right==NULL)
        return left;
        
        if(right && !left)
        return right;
+       
+       if(!left && !right)
+       return NULL;
     }
 };
 

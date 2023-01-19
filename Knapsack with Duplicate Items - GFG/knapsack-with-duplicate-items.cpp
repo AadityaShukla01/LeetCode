@@ -16,6 +16,9 @@ public:
                 dp[i][j]=0;
             }
         }
+        //in unbounded knapsack we can reuse a wt if we have picked it 
+        // if we have not picked it we cant process it again
+        //so call for [i][j-arr[i-1]] instead of [i-1][j-arr[i-1]]
         for(int i=1;i<N+1;i++){
             for(int j=0;j<W+1;j++){
                 if(wt[i-1]<=j){

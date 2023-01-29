@@ -115,13 +115,16 @@ class Solution{
         if(root==NULL)
         return true;
         
-        int x=height(root->left);
-        int y=height(root->right);
+        bool left=isBalanced(root->left);
+        bool right=isBalanced(root->right);
         
-        if(abs(x-y)>1)
+        int left1=height(root->left);
+        int right1=height(root->right);
+        
+        if(abs(left1-right1)>1)
         return false;
         
-        return isBalanced(root->left) && isBalanced(root->right);
+        return left && right;
     }
 
 };

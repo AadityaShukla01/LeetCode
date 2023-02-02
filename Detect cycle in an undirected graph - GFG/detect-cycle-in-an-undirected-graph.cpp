@@ -28,13 +28,29 @@ class Solution {
         }
         return false;
     }
+    
+    bool dfs(int node,int parent,vector<int> adj[],int vis[]){
+        vis[node]=true;
+        
+        for(auto i:adj[node]){
+            if(vis[i]==0){
+                if(dfs(i,node,adj,vis)==true)
+                return true;
+            }
+            else if(i!=parent) //cycle detected
+            return true;
+        }
+        
+        return false;
+    }
     bool isCycle(int V, vector<int> adj[]) {
         // Code here
         int vis[V]={0};
         
         for(int i=0;i<V;i++){
             if(!vis[i]){
-            if(cycle(i,adj,vis))
+            // if(cycle(i,adj,vis))
+            if(dfs(i,-1,adj,vis))
             return true;
         }
         }

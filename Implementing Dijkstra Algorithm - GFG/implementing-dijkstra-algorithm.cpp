@@ -36,10 +36,7 @@ class Solution
             }
         }
         }
-        for(int i=0;i<ans.size();i++){
-            if(ans[i]==1e9)
-            ans[i]=-1;
-        }
+        
         return ans;
     }
 };

@@ -26,16 +26,20 @@ class Solution {
         vector<int>ans(N,1e9);
         ans[src]=0;
         int vis[N]={0};
+        vis[src]=1;
         while(q.empty()==false){
             int n=q.front();
             q.pop();
             for(auto i:adj[n]){
                 //calculate min distance from source node
-
+                if(!vis[i]){
+                    vis[i]=1;
+                
                 if(ans[n]+1<ans[i]){
                     ans[i]=ans[n]+1;
                     q.push(i);
                 }
+            }
             }
         }
         for(int i=0;i<ans.size();i++){

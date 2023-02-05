@@ -13,12 +13,12 @@ class Solution {
     int minimumMultiplications(vector<int>& arr, int start, int end) {
         // code here
         queue<pair<int,int>>q;
-        q.push({start,0});
+        q.push({0,start});
         vector<int>distance(100000,1e9);
         distance[start]=0;
         while(q.empty()==false){
-            int num=q.front().first;
-            int count=q.front().second;
+            int count=q.front().first;
+            int num=q.front().second;
             q.pop();
         for(int n:arr){
             int newNumber=(num*n) % 100000;
@@ -26,7 +26,7 @@ class Solution {
                 distance[newNumber]=count+1;
                 if(newNumber==end)
                 return count+1;
-                q.push({newNumber,count+1});
+                q.push({count+1,newNumber});
             }
         }
     }

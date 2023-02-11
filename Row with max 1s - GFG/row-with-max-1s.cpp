@@ -8,27 +8,16 @@ class Solution{
 public:
 	int rowWithMax1s(vector<vector<int> > arr, int n, int m) {
 	    // code here
-	    map<int,int>map;
+	    int ans=-1;
+	    int i=0;
+	    int j=m-1;
 	    for(int i=0;i<n;i++){
-	        int q=count(arr[i].begin(),arr[i].end(),1);
-	        map[i]=q;
-	    }
-	    int ans=0;
-	    int res=-1;
-	    for(auto it:map){
-	        if(ans<it.second){
-	            ans=it.second;
+	        while(j>=0 && arr[i][j]==1){
+	            j--;
+	            ans=i;
 	        }
 	    }
-	    for(auto it:map){
-	        if(it.second==ans){
-	            res=it.first;
-	            break;
-	        }
-	    }
-	    if(ans==0)
-	    return -1;
-	    return res;
+	    return ans;
 	}
 
 };

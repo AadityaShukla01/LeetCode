@@ -18,9 +18,6 @@ public:
         
         reverse(a2.begin(),a2.end());
         for(int i=0;i<n;i++){
-            cout<<a1[i]<<" "<<a2[i]<<endl;
-        }
-        for(int i=0;i<n;i++){
             if(a1[i]==a2[i])
                 return i+1;
         }

@@ -32,9 +32,10 @@ public:
     }
     
     void addAtHead(int val) {
-        Node*top=head->next;
+        //aisa isisliye kar rahe kyonki hamar head initially dummy node zero hain
+        Node*temp=head->next;
         head->next=new Node(val);
-        head->next->next=top;
+        head->next->next=temp;
         size++;
     }
     

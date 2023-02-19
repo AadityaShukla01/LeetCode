@@ -9,29 +9,31 @@ using namespace std;
 
 class Solution{   
 public:
-    bool sol(vector<int>arr, int sum,int n,vector<vector<int>>&dp){
-        if(sum==0)
-        return true ;//empty subset {}
+    bool sol(vector<int>arr, int target,int n,vector<vector<int>>&dp){
+        if(target==0)
+        return true;
         
         if(n==0)
-        return false; //if sum!-0 && n==0 no possble subset found
-            
-        if(dp[n][sum]!=-1)
-        return dp[n][sum];
+        return arr[0]==target;
         
-        if(arr[n-1]<=sum){
-            dp[n][sum]=sol(arr,sum-arr[n-1],n-1,dp) || sol(arr,sum,n-1,dp);
+        if(dp[n][target]!=-1)
+        return dp[n][target];
+        
+        bool ok=false;
+        
+        if(target>=arr[n]){
+            ok=sol(arr,target-arr[n],n-1,dp);
         }
-        else{
-            dp[n][sum]=sol(arr,sum,n-1,dp);
-        }
-        return dp[n][sum];
+        
+        bool notok=sol(arr,target,n-1,dp);
+        
+        return dp[n][target]=(ok||notok);
     }
     bool isSubsetSum(vector<int>arr, int sum){
         // code here 
         int n=arr.size();
         vector<vector<int>> dp( n+1 , vector<int> (sum+1, -1));
-        return sol(arr,sum,n,dp);
+        return sol(arr,sum,n-1,dp);
     }
 };
 

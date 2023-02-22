@@ -11,7 +11,7 @@ public:
             return dp[i][j]=max(om(s1,i-1,j,s,dp),om(s1,i,j+1,s,dp));
         
     }
-    int sol(string x , string y,int n,int m,vector<vector<int>>&dp){
+    int sol(string &x , string &y,int n,int m,vector<vector<int>>&dp){
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(i==0 || j==0){
@@ -36,7 +36,7 @@ public:
         int size=s.size();
         string t=s;
         reverse(s.begin(),s.end());
-        vector<vector<int>>dp(s.size()+1,vector<int>(s.size()+1,-1));
+        vector<vector<int>>dp(s.size()+1,vector<int>(s.size()+1,0));
         return sol(s,t,i,i,dp);
     }
 };

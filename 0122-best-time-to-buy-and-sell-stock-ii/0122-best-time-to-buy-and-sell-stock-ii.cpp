@@ -12,7 +12,7 @@ public:
 
         if (buy)
         {                //take                                             //not take
-            profit = max(sol(i + 1, 0, prices, profit, dp) + (-prices[i]), sol(i + 1, 1, prices, profit, dp) + 0);
+            profit = max(sol(i + 1, 0, prices, profit, dp) -prices[i], sol(i + 1, 1, prices, profit, dp) + 0);
         }
 
         else
@@ -26,9 +26,20 @@ public:
         int i = 0;
         bool buy = true;
         int profit = 0;
+        // vector<vector<int>> dp(num, vector<int>(2, -1));
+
         int num=prices.size();
-        vector<vector<int>> dp(num, vector<int>(2, -1));
-        sol(0, buy, prices, profit, dp);
-        return profit;
+        //space optimization
+        long currBuy=0,aheadBuy=0,currNotBuy =0,aheadNotBuy=0;
+        for(int i=num-1;i>=0;i--){
+            currNotBuy=max(prices[i]+aheadBuy,aheadNotBuy+0);
+
+            currBuy=max(-prices[i]+aheadNotBuy,aheadBuy+0);
+
+            aheadBuy=currBuy;
+            aheadNotBuy=currNotBuy;
+        }
+        // sol(0, buy, prices, profit, dp);
+        return aheadBuy;
     }
 };

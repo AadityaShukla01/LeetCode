@@ -16,10 +16,22 @@ public:
         return *max_element(list.begin(), list.end());
     }
 
-    int lengthOfLIS(vector<int> &ans)
+    int lengthOfLIS(vector<int> ans)
     {
         int n = ans.size();
         // Write your code here.
-        return sol(ans, n);
+        // return sol(ans, n);
+        vector<int>res;
+        res.push_back(ans[0]);
+
+        for(int i=1;i<n;i++){
+            if(ans[i]>res.back()) res.push_back(ans[i]);
+            else{
+                //apply binary search to find appropriate place for this elemenet
+                int index=lower_bound(res.begin(),res.end(),ans[i])-res.begin();
+                res[index]=ans[i];
+            }
+        }
+        return res.size();
     }
 };

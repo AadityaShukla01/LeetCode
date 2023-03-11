@@ -9,30 +9,20 @@ using namespace std;
 
 class Solution{   
 public:
-    bool sol(vector<int>arr, int target,int n,vector<vector<int>>&dp){
-        if(target==0)
-        return true;
+    int sol(vector<int>arr, int sum,int i,vector<vector<int>>&dp){
+        if(i==0)
+        return arr[i]==sum;
         
-        if(n==0)
-        return arr[0]==target;
+        if(sum==0) return 1;
         
-        if(dp[n][target]!=-1)
-        return dp[n][target];
+        if(dp[i][sum]!=-1) return dp[i][sum];
         
-        bool ok=false;
-        
-        if(target>=arr[n]){
-            ok=sol(arr,target-arr[n],n-1,dp);
-        }
-        
-        bool notok=sol(arr,target,n-1,dp);
-        
-        return dp[n][target]=(ok||notok);
+        return dp[i][sum]=sol(arr,sum-arr[i],i-1,dp)|| sol(arr,sum,i-1,dp);
     }
     bool isSubsetSum(vector<int>arr, int sum){
         // code here 
         int n=arr.size();
-        vector<vector<int>> dp( n , vector<int> (sum+1,-1));
+        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
         return sol(arr,sum,n-1,dp);
     }
 };

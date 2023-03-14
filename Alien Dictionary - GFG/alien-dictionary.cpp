@@ -12,18 +12,6 @@ class Solution{
     vector<int> topoSort(int V, vector<int> adj[]) 
 	{
 	    // code here
-	   // int vis[V]={0};
-	   // stack<int>st;
-	   // vector<int>ans;
-	   // for(int i=0;i<V;i++){
-	   //     if(!vis[i])
-	   //     sol(i,adj,st,vis);
-	   // }
-	   // while(st.empty()==false){
-	   // ans.push_back(st.top());
-    //     st.pop();
-	   // }
-	   // return ans;
 	   int indegree[V]={0};
 	   
         vector<int>ans;	  
@@ -56,26 +44,23 @@ class Solution{
         
         //create a adjacenecy list fron the strings
         vector<int>adj[K];
-        
-        
         for(int i=0;i<N-1;i++){
-            string q1=dict[i];
-            string q2=dict[i+1];
+            string s1=dict[i];
+            string s2=dict[i+1];
             
-            int len=min(q1.size(),q2.size());
+            int len=min(s1.size(),s2.size());
             
-            for(int i=0;i<len;i++){
-                if(q1[i]!=q2[i]){
-                    adj[q1[i]-'a'].push_back(q2[i]-'a');
+            for(int comp=0;comp<len;comp++){
+                if(s1[comp]!=s2[comp]){
+                    adj[s1[comp]-'a'].push_back(s2[comp]-'a');
                     break;
                 }
             }
         }
         vector<int>ans=topoSort(K,adj);
-        string res="";
-        for(int i:ans){
-            res+=char(i+'a');
-        }
+        string res;
+        for(int i=0;i<ans.size();i++)
+            res+=char(ans[i]+'a');
         return res;
     }
 };

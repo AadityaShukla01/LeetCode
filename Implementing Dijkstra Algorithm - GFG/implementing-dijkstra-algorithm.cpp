@@ -16,24 +16,33 @@ class Solution
         for(int i=0;i<V;i++){
             ans[i]=1e9;
         }
-        ans[S]=0;
-        pq.push({0,S});
         
-        while(pq.empty()==false){
-            int node=pq.top().second;
-            int wt=pq.top().first;
-            pq.pop();
-            for(auto it:adj[node]){
-                int edgeWeight=it[1];
-                int n=it[0];
-            if(wt+edgeWeight<ans[n]){
-                ans[n]=wt+edgeWeight;
-                pq.push({ans[n],n});
+        //inserting intial values
+        ans[S]=0;
+        set<pair<int,int>>set;
+        set.insert({0,S});
+        
+        while(set.empty()==false){
+            //iterator pointing to top element of set
+            auto it=*(set.begin());
+            int wt=it.first;
+            int node=it.second;
+            set.erase(it);
+            //travelling and calculating distance from its neighbours
+            for(auto i:adj[node]){
+                int n=i[0];
+                int edgeWeight=i[1];
+                
+                if(ans[n]>wt+edgeWeight){
+                    if(ans[n]!=-1e9) // it means someone elese already travelled it
+                        set.erase({ans[n],n}); //erase it no need to travel it
+                    ans[n]=wt+edgeWeight;
+                    set.insert({edgeWeight+wt,n});
             }
         }
-        }
-        return ans;
     }
+        return ans;
+}
 };
 
 

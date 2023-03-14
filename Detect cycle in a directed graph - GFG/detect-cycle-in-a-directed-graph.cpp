@@ -10,27 +10,24 @@ class Solution {
         vis[node]=1;
         pathVis[node]=1;
         
-        for(auto i:adj[node]){
-            //if not visited 
-            if(!vis[i]){
-                if(dfs(i,V,adj,vis,pathVis)==true)
-                return true;
+        for(auto it:adj[node]){
+            if(!vis[it]){
+                if(dfs(it,V,adj,vis,pathVis)) return true;
             }
-            else if(pathVis[i]==true){
-                return true;
-            }
+            else if(pathVis[it]==1) return true;
         }
         pathVis[node]=0;
         return false;
     }
     bool isCyclic(int V, vector<int> adj[]) {
-        // code here
-        int vis[V]={0};
         int pathVis[V]={0};
+        int vis[V]={0};
+    
         
         for(int i=0;i<V;i++){
-            if(dfs(i,V,adj,vis,pathVis)==true)
-            return true;
+            if(!vis[i]){
+                if(dfs(i,V,adj,vis,pathVis)==true) return true;
+            }
         }
         return false;
     }

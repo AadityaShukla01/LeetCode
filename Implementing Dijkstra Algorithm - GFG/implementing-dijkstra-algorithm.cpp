@@ -12,31 +12,26 @@ class Solution
     {
         // Code here
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        vector<int>ans(V,1e9);
+        vector<int> ans(V);
+        for(int i=0;i<V;i++){
+            ans[i]=1e9;
+        }
         ans[S]=0;
-        
-        //prioeity queue will store distance of dorce node 
-        //to any node & the node to which we calculate distance
         pq.push({0,S});
         
         while(pq.empty()==false){
-            int distance=pq.top().first;
             int node=pq.top().second;
-            //pop it from queue
+            int wt=pq.top().first;
             pq.pop();
-            
-            //bfs
-            for(auto i:adj[node]){
-                int n=i[0];
-                int subDistance=i[1];
-                //finding min diatnce from src wrt neighbours
-                if(ans[n]>subDistance+distance){
-                ans[n]=subDistance+distance;
+            for(auto it:adj[node]){
+                int edgeWeight=it[1];
+                int n=it[0];
+            if(wt+edgeWeight<ans[n]){
+                ans[n]=wt+edgeWeight;
                 pq.push({ans[n],n});
             }
         }
         }
-        
         return ans;
     }
 };

@@ -27,12 +27,12 @@ class Solution {
             int distance=q.front().second.second;
             q.pop();
             
-            if(stops>k) continue;
+            // if(stops>k) continue;
             for(auto it:adj[n]){
                 int neighbour=it.first;
                 int gap=it.second;
                 
-                if(distance+gap<dist[neighbour]){
+                if(distance+gap<dist[neighbour] && stops<k+1){
                     dist[neighbour]=distance+gap;
                     q.push({stops+1,{neighbour,dist[neighbour]}});
                 }

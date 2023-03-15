@@ -14,39 +14,32 @@ class Solution {
     */
     vector<int> bellman_ford(int V, vector<vector<int>>& edges, int S) {
         // Code here
-        //create a disance array
-        vector<int>distance(V,1e8);
-        distance[S]=0; //source node
-        
-        //we will be iterating n-1 times
+        vector<int>dist(V,1e8);
+        dist[S]=0;
         for(int i=0;i<V-1;i++){
-            //check neighbour via adjacency list
             for(auto it:edges){
-                int u=it[0];
-                int v=it[1];
-                int cost=it[2];
-                
-                if(distance[u]!=1e8 ){
-                    if(distance[u]+cost<distance[v]){
-                        distance[v]=distance[u]+cost;
-                    }
-                }
+            int u=it[0];
+            int v=it[1];
+            int wt=it[2];
+            
+            if(dist[u]!=1e8 && dist[u]+wt<dist[v]){
+                dist[v]=dist[u]+wt;
             }
         }
-        //check for nth time for - cycles
-        for(auto it:edges){
+    }
+        //check for- cycles
+        for(int i=0;i<V-1;i++){
+            for(auto it:edges){
             int u=it[0];
-                int v=it[1];
-                int cost=it[2];
-                
-                if(distance[u]!=1e8 ){
-                    if(distance[u]+cost<distance[v]){
-                        // distance[v]=distance[u]+cost;
-                        return {-1}; //for - cycles
-                    }
-                }
+            int v=it[1];
+            int wt=it[2];
+            
+            if(dist[u]!=1e8 && dist[u]+wt<dist[v]){
+                return {-1};
+            }
         }
-        return distance;
+        }
+        return dist;
     }
 };
 

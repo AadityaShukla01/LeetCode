@@ -62,6 +62,9 @@ class Solution {
         int extras=0; //to calculate or find extra components
         DisjointSet ds(n);
         int count=0;
+        
+        //if they are already connected no need to connect them ->they will be counted a s extra edges
+        
         for(auto it:edges){
             int u=it[0];
             int v=it[1];
@@ -73,10 +76,12 @@ class Solution {
             
         }
         
+        //to extra components
         for(int i=0;i<n;i++){
             if(ds.parent[i]==i)
                 count++;
         }
+        
         if(extras>=count-1) return count-1;
         return -1;
     }

@@ -34,12 +34,13 @@ class Solution {
     
     bool dfs(int node,int parent,vector<int> adj[],int vis[]){
         vis[node]=1;
-        for(auto ele:adj[node]){
-            if(vis[ele]==0) {
-                if(dfs(ele,node,adj,vis)) return true;
+        
+        for(auto it:adj[node]){
+            //if coming for first time
+            if(vis[it]==0){
+                if(dfs(it,node,adj,vis)==true) return true;
             }
-            else
-            if(parent!=ele) return true;
+            else if(it!=parent) return true; //cycle present
         }
         return false;
     }

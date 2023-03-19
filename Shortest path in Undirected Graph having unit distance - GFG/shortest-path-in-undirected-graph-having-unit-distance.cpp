@@ -10,42 +10,38 @@ class Solution {
   public:
     vector<int> shortestPath(vector<vector<int>>& edges, int N,int M, int src){
         // code here
-        
-        
-        //creat adjacenecy list
         vector<int>adj[N];
-        
-        for(int i=0;i<edges.size();i++){
-            int a=edges[i][0];
-            int b=edges[i][1];
-            adj[a].push_back(b);
-            adj[b].push_back(a);
+        for(auto it:edges){
+            int u=it[0];
+            int v=it[1];
+            
+            //created a graph
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
+        vector<int>dist(N,INT_MAX);
+        vector<int>ans(N,-1);
+        
         queue<int>q;
         q.push(src);
-        vector<int>ans(N,1e9);
-        ans[src]=0;
-        int vis[N]={0};
-        vis[src]=1;
+        dist[src]=0;
+        
         while(q.empty()==false){
-            int n=q.front();
+            int node=q.front();
             q.pop();
-            for(auto i:adj[n]){
-                //calculate min distance from source node
-                if(!vis[i]){
-                    vis[i]=1;
-                
-                if(ans[n]+1<ans[i]){
-                    ans[i]=ans[n]+1;
-                    q.push(i);
+            for(auto it:adj[node]){
+                //check for smallest path
+                if(dist[it]>dist[node]+1){
+                    dist[it]=dist[node]+1;
+                    q.push(it);
                 }
             }
-            }
         }
-        for(int i=0;i<ans.size();i++){
-            if(ans[i]==1e9)
-            ans[i]=-1;
+        for(int i=0;i<N;i++){
+            if(dist[i]!=INT_MAX) ans[i]=dist[i];
+            else ans[i]=-1;
         }
+        
         return ans;
     }
 };

@@ -8,54 +8,58 @@ using namespace std;
 // User function Template for C++
 class Solution {
   public:
-  void sol(int node,vector<pair<int,int>>adj[],int vis[],stack<int>&st){
-      vis[node]=1;
-      for(auto it:adj[node]){
-          int i=it.first;
-          if(!vis[i]){
-              sol(i,adj,vis,st);
-          }
-      }
-      st.push(node);
-  }
+    void dfs(int src,stack<int>&st,int vis[],vector<pair<int,int>>adj[]){
+        vis[src]=1;
+        
+        for(auto it:adj[src]){
+            int u=it.first;
+            
+            dfs(u,st,vis,adj);
+        }
+        //after its dfs call gets completed insert into stack
+        //basically we are sorting according ot thoei finish time
+        
+        st.push(src);
+    }
      vector<int> shortestPath(int N,int M, vector<vector<int>>& edges){
-        // code here
-        stack<int>st;
-        vector<pair<int,int>>adj[N];
-        for(int i=0;i<edges.size();i++){
-            int a=edges[i][0];
-            int b=edges[i][1];
-            int c=edges[i][2];
-            
-            adj[a].push_back({b,c});
+       vector<pair<int,int>>adj[N];
+       
+       for(auto it:edges){
+           int u=it[0];
+           int v=it[1];
+           int wt=it[2];
+           
+           adj[u].push_back({v,wt});
+       }
+       vector<int>dist(N,1e9);
+       vector<int>ans(N,-1);
+       stack<int>st;
+       int vis[N]={0};
+       for (int i = 0; i < N; i++) {
+        if (!vis[i]) {
+          dfs(i,st, vis,adj);
         }
-        int vis[N]={0};
-        for(int i=0;i<N;i++){
-            if(!vis[i]){
-                sol(i,adj,vis,st);
-            }
-        }
-        vector<int>dist(N,1e9);
-        dist[0]=0;
-        
-        //calculate min distance and update the distance
-        
-        while(st.empty()==false){
-            int a=st.top();
-            st.pop();
-            
-            for(auto it:adj[a]){
-                int f=it.first;
-                int s=it.second;
-                if(dist[a]+s<dist[f]){
-                    dist[f]=dist[a]+s;
-                }
-            }
-        }
-        for(int i=0;i<N;i++)
-        if(dist[i]==1e9)
-        dist[i]=-1;
-        return dist;
+      }
+       dist[0]=0;
+       while(st.empty()==false){
+           int src=st.top();
+           st.pop();
+           
+           //relaxation of neighbours
+           
+           for(auto it:adj[src]){
+               int u=it.first;
+               int wt=it.second;
+               if(dist[src]+wt<dist[u]) dist[u]=dist[src]+wt;
+           }
+       }
+       for(int i=0;i<N;i++){
+           if(dist[i]!=1e9){
+               ans[i]=dist[i];
+           }
+           
+       }
+       return ans;
     }
 };
 

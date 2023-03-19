@@ -3,6 +3,7 @@
 using namespace std;
 
 // } Driver Code Ends
+
 class Solution
 {
 	public:
@@ -12,35 +13,28 @@ class Solution
     {
         // Code here
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        vector<int> ans(V);
-        for(int i=0;i<V;i++){
-            ans[i]=1e9;
-        }
-        
-        //inserting intial values
-        ans[S]=0;
-        set<pair<int,int>>set;
-        set.insert({0,S});
-        
-        while(set.empty()==false){
-            //iterator pointing to top element of set
-            auto it=*(set.begin());
-            int wt=it.first;
-            int node=it.second;
-            set.erase(it);
-            //travelling and calculating distance from its neighbours
-            for(auto i:adj[node]){
-                int n=i[0];
-                int edgeWeight=i[1];
+        pq.push({0,S});
+        int dist[V];
+        for(int i=0;i<V;i++) dist[i]=1e9;
+            dist[S]=0;
+        vector<int>ans(V,-1);
+        while(pq.empty()==false){
+            int node=pq.top().second;
+            int distance=pq.top().first;
+            pq.pop();
+            //neighbours
+            for(auto it:adj[node]){
+                int n=it[0];
+                int wt=it[1];
                 
-                if(ans[n]>wt+edgeWeight){
-                    if(ans[n]!=-1e9) // it means someone elese already travelled it
-                        set.erase({ans[n],n}); //erase it no need to travel it
-                    ans[n]=wt+edgeWeight;
-                    set.insert({edgeWeight+wt,n});
+                if(dist[n]>dist[node]+wt){
+                    dist[n]=dist[node]+wt;
+                    pq.push({dist[n],n});
+                }
             }
         }
-    }
+        for(int i=0;i<V;i++) 
+        if(dist[i]!=1e9) ans[i]=dist[i];
         return ans;
 }
 };

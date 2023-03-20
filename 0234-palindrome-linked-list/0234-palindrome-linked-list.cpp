@@ -24,20 +24,20 @@ ListNode* sol(ListNode*head){
 }
     bool isPalindrome(ListNode* head) {
         ListNode*curr=head;
-        ListNode*ans=head;
-        // ListNode*ans=sol(head);
-        while(ans && ans->next){
-            curr=curr->next;
-            ans=ans->next->next;
-        }
-        ListNode*news=sol(curr);
-        while(news){
-            if(news->val!=head->val)
-            return false;
+        ListNode*slow=head;
+        ListNode*fast=head;
 
-            news=news->next;
-            head=head->next;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
         }
+
+        ListNode*ans=sol(slow);
+        while(curr && ans){
+            if(curr->val!=ans->val) return false;
+            curr=curr->next;
+            ans=ans->next;
+        }   
         return true;
-    }
+    }   
 };

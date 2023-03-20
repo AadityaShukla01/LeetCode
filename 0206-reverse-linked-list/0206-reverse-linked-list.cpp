@@ -11,16 +11,17 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL)
-            return head;
+        //iterative method
+        if(head==NULL) return head;
 
         ListNode*curr=head;
-        ListNode*pre=NULL;
         ListNode*forw=NULL;
+        ListNode*pre=NULL;
 
         while(curr){
-            forw=curr->next;
+            forw=curr->next; //reversing the connection
             curr->next=pre;
+            //move ahead
             pre=curr;
             curr=forw;
         }

@@ -31,7 +31,6 @@ public:
         curr=curr->next;
      }
 
-
       while(list1 && list2){
           if(list1->val<list2->val){
               curr->next=list1;

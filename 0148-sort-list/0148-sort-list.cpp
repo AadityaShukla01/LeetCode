@@ -13,64 +13,55 @@ class Solution
 public:
     ListNode *sortList(ListNode *head)
     {
+        //merge sort -> divide - merge+sort
+        if(head==NULL || head->next==NULL) return head;
 
-        // if lsit contains zero or 1 node
-        if (head == NULL || head->next == NULL)
-            return head;
-        ListNode *temp = head; // using it to store the node where we will partiotn
-        ListNode *slow = head;
-        ListNode *fast = head;
-        while (fast && fast->next)
-        {
-            temp = slow;
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode *temp=head;
+        ListNode *slo=head;
+        ListNode *fast=head;
+        //finding mid
+        while(fast && fast->next){
+            temp=slo;
+            slo=slo->next;
+            fast=fast->next->next;
         }
-        // into 2 parts
-        temp->next = NULL;
+        //break'em into parts
+        temp->next=NULL;
 
-        // call sorting function on left half
-        ListNode *l1 = sortList(head);
+        //divide
+        ListNode *p=sortList(head);
+        ListNode *q=sortList(slo);
 
-        // ryt part breaking
-        ListNode *l2 = sortList(slow);
-
-        // merge sorted parts
-        return merge(l1, l2);
+        //conquer//merge'em
+        return merge(p,q);
     }
 
-    ListNode *merge(ListNode *l1, ListNode *l2)
+    ListNode *merge(ListNode *p, ListNode *q)
     {
-        // creating node to form new list
-        ListNode *curr = new ListNode(0);
-        ListNode *temp = curr;
-
-        while (l1 && l2)
-        {
-            if (l1->val < l2->val)
-            {
-                curr->next = l1;
-                l1 = l1->next;
+        if(p==NULL || q==NULL) return NULL;
+        ListNode *curr=new ListNode(0);
+        ListNode *dummy=curr;
+        while(p && q){
+            if(p->val <q->val){
+                curr->next=p;
+                p=p->next;
             }
-            else
-            {
-                curr->next = l2;
-                l2 = l2->next;
+            else{
+                curr->next=q;
+                q=q->next;
             }
-            curr = curr->next;
+            curr=curr->next;
         }
-        if (l1 != NULL)
+        if (p != NULL)
         {
-            curr->next = l1;
-            l1 = l1->next;
+            curr->next = p;
+            p = p->next;
         }
-
-        if (l2 != NULL)
+        if (q != NULL)
         {
-            curr->next = l2;
-            l2 = l2->next;
+            curr->next = q;
+            q = q->next;
         }
-
-        return temp->next;
+        return dummy->next;
     }
 };

@@ -11,24 +11,20 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head==NULL)
-        return head;
-
+        if(head==NULL) return NULL;
         ListNode*o=head;
         ListNode*e=head->next;
-        ListNode*ans=new ListNode(0);
-        ans->next=e;
-        ListNode*rest=o;
-        bool res=false;
-        head=head->next;
-        while(o && e && e->next && o->next){
-            o->next=o->next->next;
+        ListNode*ans=e;
+        ListNode*top=o;
+        bool flag=true;
+        while(o->next && e->next){
+            o->next=e->next; //making connections
+            e->next=o->next->next;
+            //moving ahead
             o=o->next;
-
-            e->next=e->next->next;
             e=e->next;
         }
-        o->next=ans->next;
-        return rest;
+        o->next=ans;
+        return top;
     }
 };

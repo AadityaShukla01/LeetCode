@@ -96,34 +96,30 @@ Node* buildTree(string str)
 class Solution {
   public:
     vector <int> bottomView(Node *root) {
-        // Your Code Here
-        vector<int>sai;
-        map<int,int>store;
+        vector<int>ans;
+        if(root==NULL) return ans;
         queue<pair<Node*,int>>q;
-        q.push(make_pair(root,0));
+        map<int,int>map;
+        q.push({root,0});
         
         while(q.empty()==false){
-            pair<Node*,int>frontNode=q.front();
+            Node *node=q.front().first;
+            int level=q.front().second;
             q.pop();
-            Node*temp=frontNode.first;
-            int hd=frontNode.second;
             
-            store[hd]=(temp->data);
+        
+            map[level]=node->data;
             
-            if(temp->left){
-                q.push(make_pair(temp->left,hd-1));
-            }
-            if(temp->right){
-                q.push(make_pair(temp->right,hd+1));
-            }
+            if(node->left)
+                q.push({node->left,level-1});
+            if(node->right)
+                q.push({node->right,level+1});
         }
-        for(auto i:store){
-            
-                // if(j==i.second)
-                sai.push_back(i.second);
-            
-        }
-        return sai;
+        
+        
+        for(auto it:map)
+            ans.push_back(it.second);
+        return ans;
     }
 };
 

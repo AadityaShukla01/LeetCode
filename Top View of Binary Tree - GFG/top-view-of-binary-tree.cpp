@@ -104,43 +104,30 @@ class Solution
     //from left to right in Binary Tree.
     vector<int> topView(Node *root)
     {
-        //ek map banayege jisme saare nodes store
-        //karenge unke horizpontal indx ke saath
-        vector<int>res;
-        map<int,int>store;
-        //ek queue banayenge level order traversal ke liye usme node ke saath 
-        //uska horizontal index bi store karenge
+        vector<int>ans;
+        if(root==NULL) return ans;
         queue<pair<Node*,int>>q;
-        //pushing inital root in queue;
-        q.push(make_pair(root,0));
-        
-        //running level order traversal
+        map<int,int>map;
+        q.push({root,0});
         
         while(q.empty()==false){
-            pair<Node*,int>frontNode=q.front();
+            Node *node=q.front().first;
+            int level=q.front().second;
             q.pop();
-            //getting current node from it
-            Node*ans=frontNode.first;
-            //getting horizontal ditance from it
-            int hd=frontNode.second;
             
-            //check that only one value miust be there ata index
-            if(store.find(hd)==store.end()){
-                store[hd]=ans->data;
-            }
-            //if left subtree exists go traverse it
-            if(ans->left)
-            q.push(make_pair(ans->left,hd-1));
+            if(map.find(level)==map.end())
+                map[level]=node->data;
             
-            if(ans->right)
-            q.push(make_pair(ans->right,hd+1));
+            if(node->left)
+                q.push({node->left,level-1});
+            if(node->right)
+                q.push({node->right,level+1});
         }
-            
         
-        for(auto i:store)
-        res.push_back(i.second);
         
-        return res;
+        for(auto it:map)
+            ans.push_back(it.second);
+        return ans;
     }
 
 };

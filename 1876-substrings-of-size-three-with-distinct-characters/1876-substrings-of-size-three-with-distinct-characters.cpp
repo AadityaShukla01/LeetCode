@@ -1,23 +1,15 @@
 class Solution {
 public:
     int countGoodSubstrings(string s) {
-        int q=0;
-        unordered_set<char>set;
-
-        int j=0;
-        int i=0;
-        while(i<s.size() && j<s.size()){
-            if(set.find(s[i])==set.end()){
-                set.insert(s[i]);
-                if(set.size()==3)
-                q++;
-                i++;
-            }
-             if(set.size()==3 || set.find(s[i])!=set.end()){
-                set.erase(s[j]);
-                j++;
-            }
+        int c=0;
+        for(int i=0;i<s.size();i++){
+            string res=s.substr(i,3);
+            unordered_set<char>set;
+            for(int i=0;i<res.size();i++)
+                set.insert(res[i]);
+            if(set.size()==3)
+                c++;
         }
-        return q;
+        return c;
     }
 };

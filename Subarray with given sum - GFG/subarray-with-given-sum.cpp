@@ -22,7 +22,9 @@ class Solution
                 start++;
             }
             if(currSum==s){
-                return {start+1,i};
+                ans.push_back(start+1);
+                ans.push_back(i);
+                return ans;
             }
             currSum+=arr[i];
         }

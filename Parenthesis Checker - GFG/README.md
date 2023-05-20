@@ -1,7 +1,9 @@
 # Parenthesis Checker
 ## Easy
-<div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an expression string <strong>x</strong>. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.<br>
-For example, the function should return 'true' for exp = “[()]{}{[()()]()}” and 'false' for exp = “[(])”.</span></p>
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given an expression string <strong>x</strong>. Examine whether the pairs and the orders of {,},(,),[,] are correct in exp.<br>
+For example, the function should return 'true' for exp = [()]{}{[()()]()} and 'false' for exp = [(]).</span></p>
+
+<p><strong><span style="font-size:18px">Note: </span></strong><span style="font-size:18px">The drive code prints "balanced" if function return true, otherwise it prints "not balanced".</span></p>
 
 <p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
@@ -10,8 +12,8 @@ For example, the function should return 'true' for exp = “[()]{}{[()()]()}” 
 <strong>Output</strong>: 
 true
 <strong>Explanation</strong>: 
-<span style="color:#FF0000">{</span> <span style="color:#00FF00">(</span> <span style="color:#0000CD">[</span> <span style="color:#0000CD">]</span> <span style="color:#00FF00">)</span> <span style="color:#FF0000">}.&nbsp;</span><span style="color:#000000">Same colored brackets can form 
-balaced pairs, with 0 number of 
+<span style="color:#ff0000">{</span> <span style="color:#00ff00">(</span> <span style="color:#0000cd">[</span> <span style="color:#0000cd">]</span> <span style="color:#00ff00">)</span> <span style="color:#ff0000">}.&nbsp;</span><span style="color:#000000">Same colored brackets can form 
+balanced pairs, with 0 number of 
 unbalanced bracket.</span>
 </span></pre>
 
@@ -22,7 +24,7 @@ unbalanced bracket.</span>
 <strong>Output</strong>: 
 true
 <strong>Explanation</strong>: 
-<span style="color:#00FF00">()</span><span style="color:#000000">. Same bracket can form balanced pairs, 
+<span style="color:#00ff00">()</span><span style="color:#000000">. Same bracket can form balanced pairs, 
 and here only 1 type of bracket is 
 present and in balanced way.</span></span>
 </pre>
@@ -34,7 +36,7 @@ present and in balanced way.</span></span>
 <strong>Output</strong>: 
 false
 <strong>Explanation</strong>: 
-<span style="color:#00FF00">(</span><span style="color:#0000CD">[]</span>.<span style="color:#000000"> Here square bracket is balanced but 
+<span style="color:#00ff00">(</span><span style="color:#0000cd">[]</span>.<span style="color:#000000"> Here square bracket is balanced but 
 the small bracket is not balanced and 
 Hence , the output will be unbalanced.</span></span></pre>
 
@@ -47,5 +49,5 @@ This is a <strong>function </strong>problem. You only need to complete the funct
 <span style="font-size:18px"><strong>Constraints:</strong><br>
 1 ≤ |x| ≤ </span><span style="font-size:18px">32000</span></p>
 
-<p><span style="font-size:18px"><strong>Note</strong>: The drive code prints "balanced" if function return true, otherwise it prints "not balanced".</span></p>
+<p>&nbsp;</p>
 </div>

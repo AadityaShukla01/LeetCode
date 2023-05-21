@@ -16,8 +16,6 @@ public:
         if(root->left==NULL && root->right==NULL){
             ans += to_string(root->val);
             res.push_back(ans);
-            ans="";
-            return ;
         }
         ans+=to_string(root->val)+"->";
         sol(root->left,ans,res);

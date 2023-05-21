@@ -104,8 +104,8 @@ class Solution
     bool hasPathSum(Node *root, int S) {
     // Your code here
     vector<int>ans;
-    int sum=0;
-    sol(root,ans,sum);
+    // int sum=0;
+    sol(root,ans,0);
     for(int i=0;i<ans.size();i++){
         if(ans[i]== S) return true;
     }

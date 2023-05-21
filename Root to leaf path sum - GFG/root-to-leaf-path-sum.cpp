@@ -94,7 +94,7 @@ class Solution
         if(root->left==NULL && root->right==NULL){
             sum+=root->data;
             ans.push_back(sum);
-            sum=0;
+            // sum=0;
             return ;
         }
         sum+=root->data;

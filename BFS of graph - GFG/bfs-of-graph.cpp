@@ -9,22 +9,23 @@ class Solution {
     vector<int> bfsOfGraph(int V, vector<int> adj[]) {
         // Code here
         
+        //bs traversal of graph
         vector<int>ans;
-        //create a visited array
-        int vis[V]={0};
-        vis[0]=1;
         queue<int>q;
         q.push(0);
-        
+        vector<int>vis(V,0);
+        vis[0] = 1;
         while(q.empty()==false){
-            int node=q.front();
-            q.pop();
-            ans.push_back(node);
             
-            for(auto it:adj[node]){
-                if(vis[it]==false){
-                    q.push(it);
-                    vis[it]=1;
+            int n=q.front();
+            q.pop();
+            
+            ans.push_back(n);
+            
+            for(auto i : adj[n]){
+                if(vis[i] == 0){
+                    q.push(i);
+                    vis[i] = 1;
                 }
             }
         }

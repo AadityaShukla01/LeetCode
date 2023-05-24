@@ -6,50 +6,35 @@ using namespace std;
 class Solution {
   public:
     // Function to detect cycle in an undirected graph.
-    bool cycle(int src ,vector<int> adj[],int vis[]){
-        //make current node visited
-        vis[src]=1;
-        queue<pair<int,int>>q;
-        q.push({src,-1});
+    bool sol(int node , int parent , vector<int>adj[],vector<int>vis){
+        vis[node] =1;
         
-        while(q.empty()==false){
-            int node=q.front().first;
-            int parent=q.front().second;
+        queue<pair<int,int>>q;
+        q.push({node,parent});
+        
+        while(!q.empty()){
+            int n = q.front().first;
+            int parentNode = q.front().second;
             q.pop();
             
-            for(auto n:adj[node])
-            {
-                if(vis[n]==0){
-                    vis[n]=1;
-                    //node and parent from which it came
-                    q.push({n,node});
+            for(auto i: adj[n]){
+                if(vis[i] == 0){
+                    vis[i] =1;
+                    q.push({i,n});
                 }
-                else{
-                    if(n!=parent) return true;
+                else if(i != parentNode){
+                    return true;
                 }
             }
-        }
-        return false;
-    }
-    
-    bool dfs(int node,int parent,vector<int> adj[],int vis[]){
-        vis[node]=1;
-        
-        for(auto it:adj[node]){
-            //if coming for first time
-            if(vis[it]==0){
-                if(dfs(it,node,adj,vis)==true) return true;
-            }
-            else if(it!=parent) return true; //cycle present
         }
         return false;
     }
     bool isCycle(int V, vector<int> adj[]) {
-        int vis[V]={0};
+        // Code here
+        vector<int>vis(V,0);
         for(int i=0;i<V;i++){
-            if(vis[i]==0){
-                if(dfs(i,-1,adj,vis)) return true;
-            }
+            if(sol(i,-1,adj,vis))
+                return true;
         }
         return false;
     }

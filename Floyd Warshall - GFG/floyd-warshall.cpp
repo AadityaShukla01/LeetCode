@@ -9,29 +9,31 @@ using namespace std;
 
 class Solution {
   public:
-	void shortest_distance(vector<vector<int>>&matrix){
-	    int n=matrix.size();
-	   // vector<vector<int,int>>adj(n,vector<int>(n,0));
-	    for(int i=0;i<n;i++){
+	void shortest_distance(vector<vector<int>>&mat){
+	    // Code here
+	    int n=mat.size();
+	    
+	        for(int i=0;i<n;i++){
 	            for(int j=0;j<n;j++){
-	                if(matrix[i][j]==-1) matrix[i][j]=1e9;
-	            if(i==j)  matrix[i][j]=0;
-	            }
+	                if(mat[i][j] == -1)
+	                    mat[i][j] =1e9;
+	            
+	        }
 	    }
 	    for(int k=0;k<n;k++){
 	        for(int i=0;i<n;i++){
 	            for(int j=0;j<n;j++){
-	                //shortest distance from source to destination via k node
-	                matrix[i][j]=min(matrix[i][j],matrix[i][k]+matrix[k][j]);
+	                mat[i][j] = min(mat[i][j],mat[i][k]+mat[k][j]);
 	            }
 	        }
 	    }
-	    for(int i=0;i<n;i++){
-	        for(int j=0;j<n;j++)
-	            if(matrix[i][j]==1e9) matrix[i][j]=-1;
+	        for(int i=0;i<n;i++){
+	            for(int j=0;j<n;j++){
+	                if(mat[i][j] == 1e9)
+	                    mat[i][j] =-1;
+	            }
+	        }
 	    }
-	   // return matrix;
-	}
 };
 
 //{ Driver Code Starts.

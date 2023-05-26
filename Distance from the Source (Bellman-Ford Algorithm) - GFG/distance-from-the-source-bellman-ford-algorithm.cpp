@@ -15,25 +15,26 @@ class Solution {
     vector<int> bellman_ford(int V, vector<vector<int>>& edges, int S) {
         // Code here
         vector<int>dist(V,1e8);
-        //we will do relaxation iteration for n-1 times
         dist[S]=0;
         for(int i=0;i<V-1;i++){
-        for(auto it:edges){
-            int u=it[0];
-            int v=it[1];
-            int wt=it[2];
-            
-            if(dist[u]+wt<dist[v] && dist[u]!=1e8) dist[v]=dist[u]+wt;
-        }
+            for(auto it : edges){
+                int u=it[0];
+                int v=it[1];
+                int wt=it[2];
+                
+                if(dist[v] > dist[u] + wt)
+                    dist[v] = dist[u] + wt;
+            }
         }
         for(int i=0;i<V-1;i++){
-        for(auto it:edges){
-            int u=it[0];
-            int v=it[1];
-            int wt=it[2];
-            
-            if(dist[u]+wt<dist[v] && dist[u]!=1e8) return {-1};
-        }
+            for(auto it : edges){
+                int u=it[0];
+                int v=it[1];
+                int wt=it[2];
+                
+                if(dist[v] > dist[u] + wt)
+                    return {-1};
+            }
         }
         return dist;
     }

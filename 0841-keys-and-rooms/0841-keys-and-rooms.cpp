@@ -1,25 +1,34 @@
 class Solution {
 public:
-    int vis[10001];
-    void dfs(int node,vector<vector<int>>& rooms){
-        vis[node]=1;
-        for(int i=0;i<rooms[node].size();i++){
-            if(!vis[rooms[node][i]])
-                dfs(rooms[node][i],rooms);
-        }
-    }
+    int vis[1001];
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
-        int n=rooms.size();
-        int count=0;
-    
+        int n =rooms.size();
+        vector<int>adj[n];
+        //create graph from input
         for(int i=0;i<n;i++){
-            if(vis[i]==0){
-                dfs(i,rooms);
-                count++;
+            for(int j=0;j<rooms[i].size();j++){
+                if(rooms[i].size() ==0) continue;
+                    adj[i].push_back(rooms[i][j]);
             }
         }
-        if(count==1) return true;
+        queue<int>q;
+        q.push(0);
+        vis[0] = 1;
+        while(q.empty()==false){
+            int node = q.front();
+            q.pop();
 
-        return false;
+            for(auto it : adj[node]){
+                if(vis[it] == 0){
+                    vis[it] = 1;
+                    q.push(it);
+                }
+            }
+        }
+        for(int i=0;i<n;i++){
+            if(vis[i] == 0)
+                return false;
+        }
+        return true;
     }
 };

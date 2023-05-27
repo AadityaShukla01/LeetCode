@@ -1,35 +1,41 @@
 class Solution {
 public:
-    void dfs(int node,vector<int>adjList[],int visited[]){
-        visited[node]=1;
-        for(auto padosi:adjList[node]){
-            if(!visited[padosi]){
-                dfs(padosi,adjList,visited);
+    void count(int node ,vector<int>adj[],vector<int> &vis){
+        queue<int>q;
+        // int n = isConnected.size();
+        q.push(node);
+        vis[node]= 1;
+        while(q.empty()==false){
+            int n=q.front();
+            q.pop();
+            for(auto i:adj[n]){
+                if(vis[i] == 0){
+                    vis[i] = 1;
+                    q.push(i);
+                }
             }
-        }
+        }   
     }
-    
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        //preparing list from matrix
-        int maa=0;
-        vector<int>adjList[n];
+        int c = 0;
+        queue<int>q;
+        int n = isConnected.size();
+        vector<int>adj[n+1];
+        vector<int>vis(n+1,0);
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-               if(isConnected[i][j]==1 && i!=j){
-                   adjList[i].push_back(j);
-                   adjList[j].push_back(j);
-               }
-                
+            for(int j=0;j<isConnected[0].size();j++){
+                if(isConnected[i][j] && i!=j){
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
             }
         }
-        int visited[101]={0};
         for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                maa++;
-                dfs(i,adjList,visited);
+            if(vis[i]==0){
+                c++;
+                count(i,adj,vis);
             }
         }
-        return maa;
+        return c;
     }
 };

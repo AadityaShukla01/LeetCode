@@ -19,26 +19,28 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//  Traverse the list to get the middle element and make that the root. left side of the list forms left sub-tree and right side of the middle element forms the right sub-tree.
 class Solution {
 public:
-TreeNode*sol(ListNode*head,ListNode*tail){
-    if(head==tail) return NULL;
-    if(head->next==tail) return new TreeNode(head->val);
+    TreeNode *sol(ListNode *head, ListNode *tail){
+        if(head==tail) return NULL;
+        //only one lement remaining
+        if(head->next==tail) return new TreeNode(head->val);
 
-    //reaching to middle of linked list
-    ListNode*slo=head;
-    ListNode*fast=head;
-    while(fast!=tail && fast->next!=tail){
-        slo=slo->next;
-        fast=fast->next->next;
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        while(fast!= tail && fast->next!=tail){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        TreeNode *root = new TreeNode(slow->val);
+        root->left = sol(head,slow);
+        root->right = sol(slow->next,tail);
+
+        return root;
     }
-    TreeNode*root=new TreeNode(slo->val);
-    root->left=sol(head,slo);
-    root->right=sol(slo->next,tail);
-    return root;
-}
     TreeNode* sortedListToBST(ListNode* head) {
-        return sol(head,NULL);
+        ListNode *tail =NULL;
+        return sol(head,tail);
     }
 };

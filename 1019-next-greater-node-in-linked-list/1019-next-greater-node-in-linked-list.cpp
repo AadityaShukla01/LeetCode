@@ -10,30 +10,49 @@
  */
 class Solution {
 public:
+    ListNode *reverses(ListNode *head){
+        if(head == NULL)
+            return NULL;
+        ListNode *pre = NULL;
+        ListNode *forw = NULL;
+
+        while(head){
+            forw = head->next;
+            head->next = pre;
+            pre = head;
+            head = forw;
+        }
+        return pre;
+    }
     vector<int> nextLargerNodes(ListNode* head) {
-        ListNode*curr=head;
-        vector<int>ans;
-        while(curr){
-            ans.push_back(curr->val);
-            curr=curr->next;
-        }
         stack<int>st;
-        int sz=ans.size();
-        vector<int>res(sz);
-        cout<<ans.size();
-        for(int i=0;i<ans.size();i++)
-        {   
-            while(!st.empty() && ans[st.top()]<ans[i]){
-                res[st.top()]=ans[i];
-                st.pop();
+        ListNode *ptr = reverses(head);
+        vector<int>res;
+        // while(ptr){
+        //     res.push_back(ptr->val);
+        //     ptr = ptr->next;
+        // }
+        vector<int>ans;
+        while(ptr){
+            if(st.empty() == true){
+                ans.push_back(0);
             }
-            st.push(i);
+            else if(st.empty() == false && st.top() > ptr->val){
+                ans.push_back(st.top());
+            }
+            else if(st.empty() == false && st.top() <= ptr->val){
+                while(st.empty() == false && st.top() <= ptr->val){
+                    st.pop();
+                }
+                if(st.size() == 0)
+                    ans.push_back(0);
+                else
+                    ans.push_back(st.top());
+            }
+            st.push(ptr->val);
+            ptr = ptr->next;
         }
-        cout<<res.size();
-        for(int i=0;i<res.size();i++){
-            if(res[i]==0)
-            res[i]=0;
-        }
-        return res;
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };

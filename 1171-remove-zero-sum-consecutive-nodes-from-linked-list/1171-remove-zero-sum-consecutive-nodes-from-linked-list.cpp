@@ -11,31 +11,34 @@
 class Solution {
 public:
     ListNode* removeZeroSumSublists(ListNode* head) {
-        ListNode* dummy =new ListNode(0);
-        dummy->next=head;
-        ListNode*ptr=dummy;
-        int sum=0;
+        ListNode* curr = head;
+        int prefixSum = 0;
         unordered_map<int,ListNode*>map;
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        map[0] = dummy;
 
-        while(ptr){
-            sum=sum+ptr->val;
-            //if sum exists we found zero subaaray
-            if(map.count(sum)){
-                ptr=map[sum]->next;
-                int p=ptr->val+sum;
-                //performing deletions
-                while(p!=sum){
-                    map.erase(p); //you must delete values from map too for firther deletions if possible
-                    ptr=ptr->next;
-                    p+=ptr->val;
+        while(head){
+            prefixSum += head->val;
+            if(map.find(prefixSum) != map.end()){
+
+                ListNode* temp = map[prefixSum];
+                ListNode* start = temp;
+                int sum = prefixSum;
+
+                while(temp != head){
+                    temp = temp->next;
+                    sum += temp->val;
+
+                    if(temp != head)
+                        map.erase(sum);
                 }
-                map[sum]->next=ptr->next;
+                start->next = head->next;
             }
-            //if value seen first time insert it into map
             else{
-                map[sum]=ptr;
+                map[prefixSum] = head;
             }
-            ptr=ptr->next;
+            head = head->next;
         }
         return dummy->next;
     }

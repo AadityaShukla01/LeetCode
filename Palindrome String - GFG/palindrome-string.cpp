@@ -9,18 +9,18 @@ using namespace std;
 class Solution{
 public:	
 	
-
+	bool sol(int l ,int r, string &S){
+	    if(l>r) return true;
+	    
+	    if(S[l]!=S[r])
+	        return false;
+	    
+	    return sol(l+1,r-1,S);
+	        
+	}
 	int isPalindrome(string S)
 	{
-	    int i =0;
-	    int j= S.size()-1;
-	    while(i<j){
-	        if(S[i]!=S[j])
-	            return false;
-	        i++;
-	        j--;
-	    }
-	    return true;
+	    return sol(0,S.size()-1,S);
 	}
 
 };

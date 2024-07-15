@@ -22,5 +22,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/AadityaShukla01/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1155-product-sales-analysis-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->

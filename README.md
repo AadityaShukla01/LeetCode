@@ -19,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Database
+|  |
+| ------- |
+| [1155-product-sales-analysis-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->

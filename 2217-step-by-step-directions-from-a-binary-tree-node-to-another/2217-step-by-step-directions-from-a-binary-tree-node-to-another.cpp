@@ -30,7 +30,7 @@ public:
             getParent(root->right);
         }
     }
-    void findTarget(TreeNode* root, int start) {
+    void findTarget(TreeNode* root, int &start) {
         if (root == NULL)
             return;
 
@@ -42,7 +42,7 @@ public:
         findTarget(root->left, start);
         findTarget(root->right, start);
     }
-    void sol(TreeNode* root, int target, string& temp) {
+    void sol(TreeNode* root, int &target, string& temp) {
         if (root == NULL)
             return;
 
@@ -67,7 +67,7 @@ public:
             temp.pop_back();
         }
 
-        if (parent[root]) {
+        if (parent.find(root) != parent.end()) {
             temp += 'U';
             sol(parent[root], target, temp);
             temp.pop_back();

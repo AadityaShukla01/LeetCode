@@ -40,8 +40,9 @@ public:
         if(isLeaf(root) && len >= 1 && len <= distance && set.find(root) == set.end()) {
             if(v.find(root) != v.end()) return;
             v[root]++;
-            cout << root->val << "\n";
+            // cout << root->val << "\n";
             count++;
+            return;
         }
 
         sol(root->left, len + 1, v);

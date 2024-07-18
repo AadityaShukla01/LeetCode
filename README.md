@@ -57,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AadityaShukla01/Leetcode/tree/master/0115-distinct-subsequences) |
+## Math
+|  |
+| ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 <!---LeetCode Topics End-->

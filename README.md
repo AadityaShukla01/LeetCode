@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1135-customers-who-bought-all-products](https://github.com/AadityaShukla01/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1480-movie-rating](https://github.com/AadityaShukla01/Leetcode/tree/master/1480-movie-rating) |
+| [1811-fix-names-in-a-table](https://github.com/AadityaShukla01/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/AadityaShukla01/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/AadityaShukla01/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/AadityaShukla01/Leetcode/tree/master/1942-primary-department-for-each-employee) |

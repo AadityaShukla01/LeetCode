@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/AadityaShukla01/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
@@ -76,10 +78,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0415-add-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

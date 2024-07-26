@@ -8,39 +8,44 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution
-{
+class Solution {
 public:
-    struct compare
-    {
-        bool operator()(const ListNode *l, const ListNode *r)
-        {
-            return l->val > r->val;
-        }
-    };
-    ListNode *mergeKLists(vector<ListNode *> &lists)
-    {
-        ListNode *dummy = new ListNode(-1);
-        ListNode *tail = dummy;
+    ListNode* merge(ListNode*p, ListNode* q){
+        if(!p) return q;
+        if(!q) return p;
 
-        priority_queue<ListNode *, vector<ListNode *>, compare> q;
+        ListNode* temp = new ListNode(-1);
+        ListNode* dummy = temp;
 
-        // inserrt head of list into priority queue
-        for (int i = 0; i < lists.size(); i++)
-        {
-            if (lists[i] != NULL)
-                q.push(lists[i]);
+        while(p && q){
+            if(p->val < q->val){
+                temp->next = p;
+                p = p->next;
+            }
+            else{
+                temp->next = q;
+                q = q->next;
+            }
+            temp = temp->next;
         }
-        //keep  untile queue becomes empty!
-        while (q.size())
-        {
-            ListNode *temp = q.top();
-            q.pop();
-            tail->next = temp;
-            tail = temp;
-            if (temp->next)
-                q.push(temp->next);
-        }
+        if(q) temp->next = q;
+        if(p) temp->next = p;
+
         return dummy->next;
+    }
+    ListNode* sol(int l, int r, vector<ListNode*>lists){
+        if(l >= r) return lists[l];
+
+        int mi = l + (r - l)/2;
+
+        ListNode* left = sol(l, mi, lists);
+        ListNode* ryt = sol(mi + 1, r, lists);
+
+        return merge(left, ryt);
+    }
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        int n = lists.size();
+        if(n == 0) return NULL;
+        return sol(0, n - 1, lists);
     }
 };

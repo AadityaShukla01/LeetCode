@@ -10,43 +10,49 @@
  */
 class Solution {
 public:
-ListNode*sol(ListNode*ptr){
-        ListNode*q=ptr;
-        ListNode*last=NULL;
-        while(q){
-            swap(q->next,last);
-            swap(last,q);
+    ListNode* reverseLL(ListNode* head){
+        ListNode* pre = NULL;
+        ListNode* forw = NULL;
+        ListNode* curr = head;
+        while(curr){
+            forw = curr->next;
+            curr->next = pre;
+            pre = curr;
+            curr = forw;
         }
-        return  last;
+        return pre;
     }
-    void reorderList(ListNode* head) {
-        ListNode *slo=head;
-        ListNode *fast=head;
-        ListNode *curr=head;
-        ListNode *temp=new ListNode(0);
-        ListNode *dummy=temp;
-        ListNode *breaker;
-        while(fast && fast->next){  
-            breaker=slo;
-            slo=slo->next;
-            fast=fast->next->next;
+    void reorderList(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        // breaker->next=NULL;
-        ListNode *newNode=sol(slo);
-        bool flag=false;
-        while( newNode && curr){
-            if(!flag){
-                temp->next=curr;
-                curr=curr->next;
+
+        ListNode* secondHalf = reverseLL(slow);
+        ListNode* nn = secondHalf;
+        bool rev = false;
+        ListNode* curr = head;
+        ListNode* temp = new ListNode(-1);
+        ListNode* dummy = temp;
+        while(curr && nn){
+            if(!rev){
+                temp->next = curr;
+                curr = curr->next;
             }
             else{
-                temp->next=newNode;
-                newNode=newNode->next;
+                temp->next = nn;
+                nn = nn->next;
             }
-            flag=!flag;
-            temp=temp->next;
+            temp = temp->next;
+            rev = !rev;
         }
-        head=dummy->next;
-        // return dummy->next;
+        if(curr){
+            temp->next = curr;
+        }
+        temp->next = NULL;
+        return;
     }
 };

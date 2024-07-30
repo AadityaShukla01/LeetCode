@@ -6,29 +6,28 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-   bool sol(TreeNode*p,TreeNode*q){
-       if(p==NULL && q==NULL)
-       return true;
+    bool sol(TreeNode* p, TreeNode* q) {
+        if (p == NULL && q == NULL)
+            return true;
 
-       if(p==NULL || q==NULL)
-       return false;
+        if (p == NULL || q == NULL)
+            return false;
 
-       if(p->val!=q->val)
-       return false;
+        if (p->val != q->val)
+            return false;
 
-       
+        bool left = sol(p->left, q->right);
+        bool right = sol(p->right, q->left);
 
-       return sol(p->right,q->left) && sol(p->left,q->right);
-   }
-    bool isSymmetric(TreeNode* root) {
-       if(root==NULL)
-       return true;
-
-       return sol(root->left,root->right);
+        return left && right;
+    }
+    bool isSymmetric(TreeNode* root) { 
+        return sol(root, root);
     }
 };

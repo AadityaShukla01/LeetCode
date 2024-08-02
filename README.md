@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2034-minimum-absolute-difference-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -245,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->

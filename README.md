@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2034-minimum-absolute-difference-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 ## Design
 |  |
 | ------- |

@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Greedy
 |  |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |

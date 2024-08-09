@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0101-symmetric-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Recursion
 |  |

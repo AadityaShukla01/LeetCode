@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0627-swap-salary](https://github.com/AadityaShukla01/Leetcode/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/AadityaShukla01/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1155-product-sales-analysis-iii) |
+| [1174-sales-analysis-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1317-monthly-transactions-i](https://github.com/AadityaShukla01/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1480-movie-rating](https://github.com/AadityaShukla01/Leetcode/tree/master/1480-movie-rating) |
 | [1811-fix-names-in-a-table](https://github.com/AadityaShukla01/Leetcode/tree/master/1811-fix-names-in-a-table) |

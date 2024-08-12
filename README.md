@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Stack
 |  |
 | ------- |

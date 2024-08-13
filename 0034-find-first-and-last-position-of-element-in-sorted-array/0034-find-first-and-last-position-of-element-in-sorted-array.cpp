@@ -1,44 +1,48 @@
 class Solution {
 public:
-    int sol(vector<int>& nums, int target){
-        int l=0;
-        int e=nums.size()-1;
-        int ans=-1;
-        while(l<=e){
-            int m=l+(e-l)/2;
-            if(nums[m]==target){
-                ans=m;
-                e=m-1;
-                 //if element found search for left most occurence
+    int first(vector<int>& nums, int target){
+        int lo = 0;
+        int hi = nums.size() - 1;
+        int ans = -1;
+        while(lo <= hi){
+            int mi = lo + (hi - lo)/2;
+
+            if(nums[mi] == target){
+                ans = mi;
+                hi = mi - 1;
             }
-            else if(nums[m]>target)
-                e=m-1;
+            else if(nums[mi] > target){
+                hi = mi - 1;
+            }
             else
-                l=m+1;
+                lo = mi + 1;
         }
         return ans;
     }
-    int sol1(vector<int>& nums, int target){
-        int l=0;
-        int e=nums.size()-1;
-        int ans=-1;
-        while(l<=e){
-            int m=(l+e)/2;
-            if(nums[m]==target){
-                ans=m;
-                l=m+1;
-                //if element found search for ryt most occurence
+    int second(vector<int>& nums, int target){
+        int lo = 0;
+        int hi = nums.size() - 1;
+        int ans = -1;
+        while(lo <= hi){
+            int mi = lo + (hi - lo)/2;
+
+            if(nums[mi] == target){
+                ans = mi;
+                lo = mi + 1;
             }
-            else if(nums[m]>target)
-                e=m-1;
+            else if(nums[mi] > target){
+                hi = mi - 1;
+            }
             else
-                l=m+1;
+                lo = mi + 1;
         }
         return ans;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int a=sol(nums,target);
-        int b=sol1(nums,target);
-        return {a,b};
+        int n = nums.size();
+        int i = first(nums, target);
+        int j = second(nums, target);
+
+        return {i, j};
     }
 };

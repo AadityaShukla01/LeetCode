@@ -15,7 +15,7 @@ public:
                 int temp = j;
                 int max_allowed = lower - nums[i];
                 int lb = lower_bound(nums.begin() + i, nums.end(), max_allowed) - nums.begin();
-                cout << i << " " << j << " " << lb << "\n";
+                // cout << i << " " << j << " " << lb << "\n";
                 count++;
                 if(i == lb) lb++;
                 if(nums[lb] + nums[i] >= lower){

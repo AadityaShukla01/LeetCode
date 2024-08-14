@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Math
 |  |
 | ------- |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0139-word-break) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Prefix Sum
 |  |
 | ------- |

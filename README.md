@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2034-minimum-absolute-difference-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Math
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |

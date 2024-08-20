@@ -1,21 +1,20 @@
-#define vi vector<int>
-#define vvi vector<vi>
-#define INF 1'000'000
 class Solution {
 public:
-    int count( int i, int n, int l, vvi& dp ){
-        if(i>n) return 1e7;
-        if(i==n) return 0;
-        int copy= 2+count(2*i,n,i,dp);
-        int paste=1+count(i+l,n,l,dp);
+    int dp[1001][1001];
+    int sol(int i, int copied, int n){
+        if(i > n) return 1e9;
+        if(i == n) return 0;
+        if(dp[i][copied] != -1) return dp[i][copied];
+        int paste = 1e9;
+        if(copied)
+            paste = sol(i + copied, copied, n) + 1;
 
-        return min(copy,paste);
-       
+        int copy = sol(i + i, i, n) + 2;
+
+        return dp[i][copied] = min(copy, paste);
     }
     int minSteps(int n) {
-        vvi dp(n+1,vi(n+1,0));
-        if(n==1)
-        return 0;
-        return count(1,n,1,dp)+1;
+        memset(dp, -1, sizeof(dp));
+        return sol(1, 0, n);
     }
 };

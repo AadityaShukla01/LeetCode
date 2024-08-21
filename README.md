@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/AadityaShukla01/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaShukla01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaShukla01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |

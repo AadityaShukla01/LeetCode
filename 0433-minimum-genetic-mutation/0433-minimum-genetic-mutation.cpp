@@ -1,34 +1,32 @@
 class Solution {
 public:
     int minMutation(string startGene, string endGene, vector<string>& bank) {
-        unordered_set<string>set;
-        for(auto it : bank)
-            set.insert(it);
-
-        set.erase(startGene);
-        queue<pair<string,int>> q;
-        q.push({startGene,0});
+        set<string>set;
+        for(auto el: bank) set.insert(el);
+        queue<pair<string, int>>q;
+        vector<char>options = {'A', 'C', 'G', 'T'};
+        q.push({startGene, 0});
 
         while(q.empty() == false){
-            string original = q.front().first;
+            string s = q.front().first;
             int steps = q.front().second;
             q.pop();
+            
+            if(s == endGene) return steps;
 
-            if(original == endGene)
-                return steps;
+            for(int i=0; i<options.size(); i++){
+                for(int j=0; j<s.size(); j++){
+                    char orig = s[j];
 
-            for(int i=0;i<original.size();i++){
-                char c = original[i];
-                for(char p='A';p<='Z';p++){
+                    s[j] = options[i];
 
-                    original[i]=p;
-
-                    if(set.find(original) != set.end()){
-                        q.push({original,steps+1});
-                        set.erase(original);
+                    if(set.find(s) != set.end()){
+                        set.erase(s);
+                        q.push({s, steps + 1});
                     }
+
+                    s[j] = orig;
                 }
-                original[i]=c;
             }
         }
         return -1;

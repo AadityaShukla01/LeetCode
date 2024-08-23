@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/AadityaShukla01/Leetcode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/AadityaShukla01/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |

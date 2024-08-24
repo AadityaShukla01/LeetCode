@@ -1,19 +1,21 @@
 class Solution {
 public:
     int mySqrt(int x) {
-       if(x==0) return 0;
-       int i=1;
-       int j=x;
-       int m=0;
-       while(i<=j){
-           m=(i)+(j-i)/2;
-           if(m == x/m)
-                return m;
-           else if(m < x/m)
-                i=m+1;
-           else 
-                j=m-1;
-       }
-       return j;
+        int lo = 0;
+        int hi = x;
+        int ans = -1;
+        while(lo <= hi){
+            int m = lo + (hi - lo)/2;
+
+            if(1LL * m * m > x){
+                hi = m - 1;
+            }
+            else if(m * m < x) {
+                ans = m;
+                lo = m + 1;
+            }
+            else return m;
+        }
+        return ans;
     }
 };

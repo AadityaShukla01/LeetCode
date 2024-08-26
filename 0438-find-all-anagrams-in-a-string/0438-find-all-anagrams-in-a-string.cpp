@@ -1,24 +1,29 @@
 class Solution {
 public:
-   vector<int> findAnagrams(string s, string p) {
-       vector<int>ans;
-       if(p.size()>s.size()) return ans;
-        vector<int>arr1(26,0);
-        vector<int>arr2(26,0);
-        for(int i=0;i<p.size();i++)
-            arr1[p[i]-'a']++;
+    vector<int> findAnagrams(string s, string p) {
+        int n = s.size();
+        int cnt = p.size();
+        map<char, int>mp;
+        for(auto c: p) mp[c]++;
+        vector<int>ans;
+        int j = 0;
+        for(int i=0; i<s.size(); i++){
+            if(mp[s[i]] > 0) cnt--;
 
-        for(int i=0;i<p.size();i++)
-            arr2[s[i]-'a']++;
-            
-        int j=0;
-        if(arr1==arr2) ans.push_back(0);
-        for(int i=p.size();i<s.size();i++){
-            // if(arr1==arr2) ans.push_back(j);
-            arr2[s[i]-'a']++;
-            arr2[s[i-p.size()]-'a']--;
-            // if(arr2[s[j]-'a']==0) arr2.erase(arr2[s[j]-'a']);
-            if(arr1==arr2) ans.push_back(i-p.size()+1);
+            mp[s[i]]--;
+
+            if(cnt == 0){
+                int start = j;
+                while(cnt == 0){
+                    mp[s[j]]++;
+                    start = j;
+                    if(mp[s[j]] > 0) cnt++;
+                    j++;
+                }
+                cout << i - j + 1 << "\n";
+                if(i - j + 2 == p.size())
+                    ans.push_back(start);
+            }
         }
         return ans;
     }

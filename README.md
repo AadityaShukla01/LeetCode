@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaShukla01/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaShukla01/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaShukla01/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AadityaShukla01/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -498,4 +501,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

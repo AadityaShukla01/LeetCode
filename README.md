@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2034-minimum-absolute-difference-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Matrix

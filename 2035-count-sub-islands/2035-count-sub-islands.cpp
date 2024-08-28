@@ -1,37 +1,37 @@
 class Solution {
 public:
-    void sol(int r, int c, int n, int m, vector<vector<int>>& g1,
-             vector<vector<int>>& g2, vector<vector<int>>& vis, bool& ans) {
+    void sol(int i, int j, int n, int m, vector<vector<int>>& mat1, vector<vector<int>>& mat2, bool &res){
 
-        if (r < 0 || c < 0 || r >= n || c >= m)
-            return;
-        if(g2[r][c] == 0) return;
+        if(mat1[i][j] != 1 && mat2[i][j] == 1) res = false;
+        
+        if(mat2[i][j] == 0) return;
 
-        if (vis[r][c])
-            return;
+        mat2[i][j] = 0;
 
-        vis[r][c] = 1;
+        int delRow[] = {-1, 0, 1, 0};
+        int delCol[] = {0, 1, 0, -1};
 
-        if (g1[r][c] == 0) {
-            ans = false;
+        for(int l=0; l<4; l++){
+            int nr = delRow[l] + i;
+            int nc = delCol[l] + j;
+
+            if(nr>=0 && nc>=0 && nr < n && nc < m){
+                sol(nr, nc, n, m, mat1, mat2, res);
+            }
+            // else return;
         }
-
-        sol(r + 1, c, n, m, g1, g2, vis, ans);
-        sol(r - 1, c, n, m, g1, g2, vis, ans);
-        sol(r, c - 1, n, m, g1, g2, vis, ans);
-        sol(r, c + 1, n, m, g1, g2, vis, ans);
-
     }
-    int countSubIslands(vector<vector<int>>& g1, vector<vector<int>>& g2) {
-        int n = g1.size(), m = g1[0].size();
+    int countSubIslands(vector<vector<int>>& mat1, vector<vector<int>>& mat2) {
+        int n = mat1.size();
+        int m = mat1[0].size();
+
         int count = 0;
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (g2[i][j] && !vis[i][j]) {
-                    bool ans = true;
-                    sol(i, j, n, m, g1, g2, vis, ans);
-                    count += ans;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(mat2[i][j] == 1 && mat1[i][j] == 1){
+                    bool res = true;
+                    sol(i, j, n, m, mat1, mat2, res);
+                    count += (res);
                 }
             }
         }

@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadityaShukla01/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/AadityaShukla01/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaShukla01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0436-find-right-interval) |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 ## Graph

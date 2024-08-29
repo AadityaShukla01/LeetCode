@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0436-find-right-interval) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AadityaShukla01/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AadityaShukla01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AadityaShukla01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
@@ -527,4 +531,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->

@@ -12,7 +12,7 @@
 class Solution {
 public:
     bool sol(TreeNode* root){
-        if(!root) return false;
+        if(!root) return true;
 
         bool l = sol(root->left);
         bool r = sol(root->right);

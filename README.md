@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Math
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
 ## Simulation
 |  |

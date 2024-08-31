@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Math
 |  |

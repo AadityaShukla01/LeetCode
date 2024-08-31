@@ -1,6 +1,7 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
+    double maxProbability(int n, vector<vector<int>>& edges,
+                          vector<double>& succProb, int start, int end) {
         vector<pair<int, double>> adj[100001];
         int i = 0;
         vector<double> ans(n, 0);
@@ -26,7 +27,7 @@ public:
             for (auto it : adj[node]) {
                 int src = it.first;
                 double p = it.second;
-                if (ans[src] < p*prob*1.0) {
+                if (ans[src] < p * prob * 1.0) {
                     pq.push({1.0 * p * prob, src});
                 }
             }

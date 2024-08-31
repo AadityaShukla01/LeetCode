@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2778-frequency-tracker](https://github.com/AadityaShukla01/Leetcode/tree/master/2778-frequency-tracker) |
+| [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
+| [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
 ## Backtracking
 |  |

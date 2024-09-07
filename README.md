@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AadityaShukla01/Leetcode/tree/master/2155-find-missing-observations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AadityaShukla01/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AadityaShukla01/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2475-largest-palindromic-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |

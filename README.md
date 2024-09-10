@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/AadityaShukla01/Leetcode/tree/master/0742-to-lower-case) |
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1250-longest-common-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AadityaShukla01/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1250-longest-common-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |

@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AadityaShukla01/Leetcode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AadityaShukla01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AadityaShukla01/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AadityaShukla01/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AadityaShukla01/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AadityaShukla01/Leetcode/tree/master/0242-valid-anagram) |

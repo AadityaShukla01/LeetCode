@@ -3,10 +3,14 @@ class Solution:
         n = len(s)
         m = len(t)
 
-        @cache
+        dp = [[-1] * m for _ in range(n)]
+
         def lcs(i, j):
             if i >= n or j >= m:
                 return 0
+
+            if dp[i][j] != -1:
+                return dp[i][j]
 
             ans = 0
 
@@ -16,6 +20,7 @@ class Solution:
             else:
                 ans = max(ans, lcs(i + 1, j), lcs(i, j + 1))
 
-            return ans
+            dp[i][j] = ans
+            return dp[i][j]
 
         return lcs(0, 0)

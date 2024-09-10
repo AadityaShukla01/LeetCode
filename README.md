@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadityaShukla01/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/AadityaShukla01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/AadityaShukla01/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -609,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/AadityaShukla01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |

@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AadityaShukla01/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/AadityaShukla01/Leetcode/tree/master/0476-number-complement) |
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AadityaShukla01/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AadityaShukla01/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AadityaShukla01/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2240-intervals-between-identical-elements](https://github.com/AadityaShukla01/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |

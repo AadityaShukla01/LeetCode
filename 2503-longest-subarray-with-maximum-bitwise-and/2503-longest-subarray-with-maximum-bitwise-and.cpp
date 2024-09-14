@@ -13,18 +13,12 @@ public:
             {
                 int j = i;
                 int len = 0;
-                while(j < n && (nums[j] == nums[i] || (nums[j] & nums[i]) == nums[i]))
+                while(j < n && (nums[j] == nums[i]))
                 {
                     len++;
                     j++;
                 }
-                int nxt = j;
-                j = i - 1;
-                while(j >= 0 && (nums[j] & nums[i]) == nums[i]){
-                    len++;
-                    j--;
-                }
-                i = nxt;
+                i = j;
                 mxLen = max(mxLen, len);
             }
             

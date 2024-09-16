@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AadityaShukla01/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/AadityaShukla01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0415-add-strings) |
 | [0447-number-of-boomerangs](https://github.com/AadityaShukla01/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AadityaShukla01/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0436-find-right-interval) |
+| [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |

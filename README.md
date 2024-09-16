@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2483-task-scheduler-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AadityaShukla01/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2155-find-missing-observations](https://github.com/AadityaShukla01/Leetcode/tree/master/2155-find-missing-observations) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AadityaShukla01/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AadityaShukla01/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AadityaShukla01/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AadityaShukla01/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2475-largest-palindromic-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/AadityaShukla01/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design

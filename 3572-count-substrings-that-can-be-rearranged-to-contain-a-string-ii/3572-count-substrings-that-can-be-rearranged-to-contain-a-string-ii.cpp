@@ -1,13 +1,5 @@
 class Solution {
 public:
-    bool check(unordered_map<char, int>&mp, unordered_map<char, int>&newMp)
-    {
-        for(char c='a'; c<='z'; c++)
-        {
-            if(newMp[c] < mp[c]) return false;
-        }
-        return true;
-    }
     long long validSubstringCount(string word1, string word2) {
         long long count = 0;
         unordered_map<char, int>mp;

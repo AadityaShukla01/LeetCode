@@ -2,7 +2,6 @@
 class TrieNode{
 public:
     TrieNode* child[26];
-    bool isLast;
     int cnt;
 };
 
@@ -19,18 +18,15 @@ public:
             temp = temp->child[c - 'a'];
             (temp->cnt) += 1;
         }
-        temp->isLast = true;
     }
     int score(string &s)
     {
         int cnt = 0;
         TrieNode* temp = root;
-        string res = "";
         for(auto c: s)
         {
             if(temp->child[c - 'a'])
             {
-                res += c;
                 temp = temp->child[c - 'a'];
                 cnt += temp->cnt;
             }

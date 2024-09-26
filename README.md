@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/AadityaShukla01/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/AadityaShukla01/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/AadityaShukla01/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1252-break-a-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/1252-break-a-palindrome) |

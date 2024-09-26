@@ -18,7 +18,7 @@ public:
         while(j >= i && a[j] == 0) j--;
 
         cnt += (n - j - 1)/2;
-        cout << i << " " << j << "\n";
+        // cout << i << " " << j << "\n";
         while(i < j)
         {
             if(a[i] == 0)
@@ -29,13 +29,14 @@ public:
                     len++;
                     i++;
                 }
-                cout << len << "\n";
+                // cout << len << "\n";
                 if(len % 2 == 0) cnt += (len)/2 - 1;
                 else cnt += len/2;
             }
             i++;
         }
-        cout << cnt << "\n";
+        // cout << cnt << "\n";
+        // ping pong
         return cnt >= op;
     }
 };

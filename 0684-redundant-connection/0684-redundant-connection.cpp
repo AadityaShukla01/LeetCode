@@ -1,55 +1,56 @@
 
 class DisjointSet{
-    private:
-    vector<int>rank;
-    vector<int>parent;
-    public:
-    DisjointSet(int n){
-        rank.resize(n+1,1);
-        parent.resize(n+1);
-
-        for(int i=0;i<=n;i++)
-            parent[i]=i;
-    }
-    int parentNode(int n){
-        if(n==parent[n]) return n; //wereached parent
-
-        return parent[n]=parentNode(parent[n]);
+public:
+    vector<int>size, parent;
+    DisjointSet(int n)
+    {
+        size.resize(n + 1, 1);
+        parent.resize(n + 1);
+        for(int i=1; i<=n; i++) parent[i] = i;
     }
 
-    bool unionByRank(int a,int b){
-        int u_a=parentNode(a);
-        int u_b=parentNode(b);
+    int findParent(int a)
+    {
+        if(a == parent[a]) return a;
 
-        if(u_a==u_b) //already connected
-            return false;
-        
-        if(rank[a]>rank[b]){
-            parent[u_b]=u_a;
-            return true;
-        }
-        else if(rank[b]>rank[a]){
-            parent[u_a]=u_b;
-            return true;
-        }
-        else{
-            parent[u_a]=u_b;
-            rank[u_a]++;
-            return true;
-        }
+        return parent[a] = findParent(parent[a]);
     }
 
+    int union_sz(int a, int b)
+    {
+        int p_a = findParent(a);
+        int p_b = findParent(b);
+
+        if(p_a == p_b) return 0;
+
+        if(size[p_a] > size[p_b])
+        {
+            size[p_a] += size[p_b];
+            parent[p_b] = p_a;
+        }
+        else
+        {
+            size[p_b] += size[p_a];
+            parent[p_a] = p_b;
+        }
+        return 1;
+    }
 };
 
 class Solution {
 public:
-    
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int n=edges.size();
+        int n = edges.size();
         DisjointSet ds(n);
-        for(auto it:edges){
-            if(!ds.unionByRank(it[0],it[1])) return {it[0],it[1]};
+
+        for(auto e: edges)
+        {
+            int a = e[0], b = e[1];
+
+            
+            int res = ds.union_sz(a, b);
+            if(!res) return e;
         }
-        return {-1,-1};
+        return {-1};
     }
 };

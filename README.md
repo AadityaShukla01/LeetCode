@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
+| [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/AadityaShukla01/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2285-design-bitset](https://github.com/AadityaShukla01/Leetcode/tree/master/2285-design-bitset) |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/AadityaShukla01/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
+| [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AadityaShukla01/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -793,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |

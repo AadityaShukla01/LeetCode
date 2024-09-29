@@ -30,6 +30,7 @@ public:
                 mp[s[i]]++;
             else cnt++;
 
+            // bad window -> shrink
             if(cnt > k)
             {
                 while(cnt > k){
@@ -44,10 +45,14 @@ public:
                     j++;
                 }
             }
-
+            // count all valid substrings(i--------ub)
+            // ub because we are finding range where this subarray has exactly k constants
+            int ub = -1;
             while(cnt == k && mp.size() == 5)
             {
-                int ub = upper_bound(pre.begin(), pre.end(), pre[i]) - pre.begin();
+                // find index of next consonant;
+                if(ub == -1)
+                    ub = upper_bound(pre.begin(), pre.end(), pre[i]) - pre.begin();
 
                 ans += (ub - i);
 

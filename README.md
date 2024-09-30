@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |

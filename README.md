@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/AadityaShukla01/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AadityaShukla01/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/AadityaShukla01/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0415-add-strings) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/AadityaShukla01/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaShukla01/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AadityaShukla01/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AadityaShukla01/Leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/AadityaShukla01/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/AadityaShukla01/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |

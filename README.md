@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/AadityaShukla01/Leetcode/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AadityaShukla01/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AadityaShukla01/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AadityaShukla01/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |

@@ -1,19 +1,21 @@
 class Solution {
 public:
-    int sol(int n,vector<int>&dp){
-        if(n<0) return 1;
-
-        if(dp[n]!=-1) return dp[n];
-
-        int ans=0;
-        for(int i=1;i<n;i++){
-            int res=max(i*(n-i) ,i * sol(n-i,dp));
-            ans=max(res,ans);
+    int dp[1001];
+    int sol(int i, int n)
+    {
+        if(i == n) return 1;
+        if(i > n) return 0;
+        if(dp[i] != -1) return dp[i];
+        int ans = 0;
+        for(int j=1; j<n; j++)
+        {
+            int steps = sol(i + j, n) * j;
+            ans = max(ans, steps);
         }
-        return dp[n]=ans;
+        return dp[i] = ans;
     }
     int integerBreak(int n) {
-        vector<int>dp(n+1,-1);
-        return sol(n,dp);
+        memset(dp, -1, sizeof(dp));
+        return sol(0, n);
     }
 };

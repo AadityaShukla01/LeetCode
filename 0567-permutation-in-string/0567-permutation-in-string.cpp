@@ -2,22 +2,31 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
         int n = s1.size(), m = s2.size();
+        int cnt = s1.size();
+        map<char, int>mp;
+        for(auto c: s1) mp[c]++;
 
-        if(n > m) return false;
-        vector<int>mp1(26, 0), mp2(26, 0);
-        for(auto c: s1) mp1[c - 'a']++;
+        int i = 0, j = 0;
 
-        for(int i=0; i<s1.size(); i++){
-            mp2[s2[i] - 'a']++;
-        }
+        while(i < m)
+        {
+            if(mp[s2[i]])
+                cnt--;
+            mp[s2[i]]--;
 
-        if(mp1 == mp2) return true;
-
-        for(int i=s1.size(); i<s2.size(); i++){
-            mp2[s2[i - s1.size()] - 'a']--;
-            mp2[s2[i] - 'a']++;
-
-            if(mp1 == mp2) return true;
+            if(cnt == 0)
+            {
+                int len = i - j + 1;
+                while(cnt == 0)
+                {
+                    mp[s2[j]]++;
+                    if(mp[s2[j]]) cnt++;
+                    len = min(len, i - j + 1);
+                    j++;
+                }
+                if(len == n) return true;
+            }
+            i++;
         }
         return false;
     }

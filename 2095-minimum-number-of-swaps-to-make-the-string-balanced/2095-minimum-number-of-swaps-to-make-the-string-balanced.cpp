@@ -2,23 +2,20 @@ class Solution {
 public:
     int minSwaps(string s) {
         int n = s.size();
-
-        stack<char>st;
         int cnt = 0;
+        int open = 0;
+
         for(int i=0; i<n; i++)
         {
-            if(st.empty() == false && s[i] == ']')
-            {
+            if(s[i] == '[') open++;
+            else if(s[i] == ']' && open){
+                open--;
                 cnt += 2;
-                st.pop();
             }
-            else if(s[i] == '[') st.push(s[i]);
         }
 
-        int open =  (n - cnt)/2;
+        int close = (n - cnt)/2;
 
-        if(open % 2) return (open + 1)/2;
-
-        return open/2;
+        return close % 2 ? (close + 1)/2 : close/2;
     }
 };

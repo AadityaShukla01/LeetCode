@@ -13,19 +13,19 @@ class Solution {
 public:
     int ans;
     unordered_map<int, int>mp;
-    void sol(TreeNode* root, int l, bool f)
+    void sol(TreeNode* root, int l)
     {
         if(!root) return;
         ans = max(ans, l);
         if(mp.find(l) == mp.end()) mp[l] = root->val;
 
-        sol(root->left, l + 1, true);
-        sol(root->right, l + 1, false);
+        sol(root->left, l + 1);
+        sol(root->right, l + 1);
     }
     int findBottomLeftValue(TreeNode* root) {
         ans = -1;
         mp.clear();
-        sol(root, 0, false);
+        sol(root, 0);
         return mp[ans];
     }
 };

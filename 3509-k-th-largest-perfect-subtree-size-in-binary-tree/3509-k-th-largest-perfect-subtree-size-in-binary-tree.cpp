@@ -20,13 +20,13 @@ public:
         pair<int, int>r = sol(root->right);
 
 
-        int h = max(l.first, r.first) + 1;
-        int sz = l.second + r.second + 1;
+        int p = max(l.first, r.first) + 1;
+        int q = l.second + r.second + 1;
 
         if(l.first == r.first && l.first != -1)
         {
-            a.push_back(sz);
-            return {h, sz};
+            a.push_back(q);
+            return {p, q};
         }
         else
             return {-1, 0};

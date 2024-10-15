@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/AadityaShukla01/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AadityaShukla01/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3195-separate-black-and-white-balls](https://github.com/AadityaShukla01/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/AadityaShukla01/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Matrix
@@ -666,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AadityaShukla01/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3195-separate-black-and-white-balls](https://github.com/AadityaShukla01/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |

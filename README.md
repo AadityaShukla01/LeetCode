@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1923-sentence-similarity-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AadityaShukla01/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AadityaShukla01/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |

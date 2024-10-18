@@ -22,7 +22,7 @@ public:
         return vec[i][digit] = ans % mo;
     }
     int knightDialer(int n) {
-        // cvecied from description
+        // copied from description
         vector<vector<int>> mp = {
             {4, 6}, {8, 6},    {7, 9}, {4, 8}, {3, 9, 0},
             {},     {0, 1, 7}, {2, 6}, {1, 3}, {2, 4}};

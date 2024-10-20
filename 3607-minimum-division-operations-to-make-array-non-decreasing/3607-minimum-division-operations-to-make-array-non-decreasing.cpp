@@ -10,6 +10,7 @@ public:
                 int a = j;
                 int b = num / j;
                 mx = max({mx, a, b});
+                break;
             }
         }
         if(mx == -1) return 1e9;

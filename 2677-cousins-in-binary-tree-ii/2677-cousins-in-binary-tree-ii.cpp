@@ -12,43 +12,45 @@
 class Solution {
 public:
     TreeNode* replaceValueInTree(TreeNode* root) {
-        if(!root) return NULL;
         queue<TreeNode*>q;
         q.push(root);
-
-        // find children sum
-        // for every node in bfs subtract its children sum
-        // remaning sum -> cousin sum
-        root->val = 0;
-        while(q.empty() == false){
+        while(q.empty() == false)
+        {
             int sz = q.size();
-            int sum = 0;
-            vector<TreeNode*>temp;
+            int sum  = 0;
+            vector<TreeNode*>ans;
             for(int i=0; i<sz; i++)
             {
-                auto src = q.front();
+                TreeNode* node = q.front();
                 q.pop();
-                temp.push_back(src);
-                if(src->left){
-                    sum += src->left->val;
-                    q.push(src->left);
-                }
-                if(src->right){
-                    sum += src->right->val;
-                    q.push(src->right);
+                ans.push_back(node);
+                if(node->left)
+                {
+                    sum += node->left->val;
+                    q.push(node->left);
+                } 
+                if(node->right) 
+                {
+                    sum += node->right->val;
+                    q.push(node->right);
                 }
             }
 
-            for(auto el: temp){
-                int t = sum;
+            for(int i=0; i<ans.size(); i++)
+            {
+                int temp = sum;
 
-                if(el->left) t -= el->left->val;
-                if(el->right) t -= el->right->val;
+                if(ans[i]->left)
+                    temp -= ans[i]->left->val;
 
-                if(el->left) el->left->val = t;
-                if(el->right) el->right->val = t;
+                if(ans[i]->right)
+                    temp -= ans[i]->right->val;
+
+                if(ans[i]->left) ans[i]->left->val = temp;
+                if(ans[i]->right) ans[i]->right->val = temp;
             }
         }
+        root->val = 0;
         return root;
     }
 };

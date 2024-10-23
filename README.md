@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AadityaShukla01/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AadityaShukla01/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AadityaShukla01/Leetcode/tree/master/0067-add-binary) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AadityaShukla01/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/AadityaShukla01/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0394-decode-string) |
 ## Bit Manipulation

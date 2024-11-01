@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1250-longest-common-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AadityaShukla01/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AadityaShukla01/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |

@@ -25,6 +25,7 @@ public:
             {
                 for(int k=l; k<=i; k++)
                 {
+                    if(k - l  + 1 > maxSize) break;
                     if( k - l  + 1>= minSize && k - l  + 1<= maxSize && v[l][k - l + 1] == 0){
                         string t = s.substr(l, k - l + 1);
                         // cout << t << "\n";

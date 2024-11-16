@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1923-sentence-similarity-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2034-minimum-absolute-difference-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2034-minimum-absolute-difference-queries) |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -898,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AadityaShukla01/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -920,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/AadityaShukla01/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AadityaShukla01/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2044-number-of-wonderful-substrings) |

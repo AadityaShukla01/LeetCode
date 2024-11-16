@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/AadityaShukla01/Leetcode/tree/master/0860-design-circular-queue) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1923-sentence-similarity-iii) |

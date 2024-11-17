@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/AadityaShukla01/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/AadityaShukla01/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/AadityaShukla01/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |
 ## Binary Search Tree
 |  |
 | ------- |

@@ -1,58 +1,68 @@
 class Solution {
 public:
-    vector<int>sol1(vector<int>&a){
-        stack<pair<int,int>>st;
+     vector<int>NSR(vector<int>&input){
+        int n = input.size();
         vector<int>ans;
+        stack<int>st;
 
-        for(int i=0;i<a.size();i++){
-        if(st.size()==0) ans.push_back(-1);
+        int null_in = n;
+        for(int i=n-1; i>=0; i--){
+            if(st.empty())
+                ans.push_back(null_in);
 
-        else if( st.empty()==false && st.top().first <a[i]){
-            ans.push_back(st.top().second);
+            else if(st.empty() == false && input[st.top()] < input[i])
+                ans.push_back(st.top());
+
+            else if(st.empty() == false && input[st.top()] >= input[i]){
+                while(st.empty() == false && input[st.top()] >= input[i])
+                    st.pop();
+                if(st.empty())
+                    ans.push_back(null_in);
+                else
+                    ans.push_back(st.top());
+            }
+            st.push(i);
         }
-        else if(st.empty()==false && st.top().first >=a[i]){
-            while(st.size()>0 && st.top().first >=a[i]) st.pop();
-
-            if(st.size()==0) ans.push_back(-1);
-            else 
-                ans.push_back(st.top().second);
-        }
-        st.push({a[i],i});
-    }
-    return ans;
-    }
-    vector<int>sol2(vector<int>&a){
-        stack<pair<int,int>>st;
-        vector<int>ans;
-        
-        for(int i=a.size()-1;i>=0;i--){
-        if(st.size()==0) ans.push_back(a.size());
-
-        else if( st.empty()==false && st.top().first<a[i]){
-            ans.push_back(st.top().second);
-        }
-        else if(st.empty()==false && st.top().first >=a[i]){
-            while(st.size()>0 && st.top().first>=a[i]) st.pop();
-
-            if(st.size()==0) ans.push_back(a.size());
-            else 
-                ans.push_back(st.top().second);
-        }
-        st.push({a[i],i});
-    }   
-        reverse(ans.begin(),ans.end());
+        reverse(ans.begin(), ans.end());
         return ans;
     }
-    int largestRectangleArea(vector<int> &a) 
-    {
-        //maximum area = max(nsr-nsl)*a
-        vector<int>ans1=sol1(a);
-        vector<int>ans2=sol2(a);
+    vector<int>NSL(vector<int>&input){
+        int n = input.size();
+        vector<int>ans;
+        stack<int>st;
+        int null_in = -1;
+        for(int i=0; i<n; i++){
+            if(st.empty())
+                ans.push_back(null_in);
 
-        int maxi=0;
-        for(int i=0;i<a.size();i++){
-            maxi=max(maxi,a[i]*abs(ans2[i]-ans1[i]-1));
+            else if(st.empty() == false && input[st.top()] < input[i])
+                ans.push_back(st.top());
+
+            else if(st.empty() == false && input[st.top()] >= input[i]){
+                while(st.empty() == false && input[st.top()] >= input[i])
+                    st.pop();
+                if(st.empty())
+                    ans.push_back(null_in);
+                else
+                    ans.push_back(st.top());
+            }
+            st.push(i);
         }
-        return maxi;
+        return ans;
+    }
+    int largestRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+        vector<int>nsl = NSL(heights);
+        vector<int>nsr = NSR(heights);
+        int ans = -1e9;
+        for(int i=0; i<n; i++){
+            int l = nsl[i];
+            int r = nsr[i];
+
+            int len = r - l - 1;
+
+            ans = max(ans, len*heights[i]);
+        }
+        return ans;
     }
 };

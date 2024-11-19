@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/AadityaShukla01/Leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AadityaShukla01/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AadityaShukla01/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AadityaShukla01/Leetcode/tree/master/0322-coin-change) |
@@ -875,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/AadityaShukla01/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/AadityaShukla01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/AadityaShukla01/Leetcode/tree/master/0476-number-complement) |

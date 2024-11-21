@@ -70,7 +70,7 @@ public:
             for(int j=0; j<n; j++)
             {
                 if(v[i][j] == 0) {
-                    cout << i << " " << j <<"\n";
+                    // cout << i << " " << j <<"\n";
                     cnt++;
                 }
             }

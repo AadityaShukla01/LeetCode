@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/AadityaShukla01/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AadityaShukla01/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Database
@@ -429,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
 |  |
@@ -694,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -1003,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |

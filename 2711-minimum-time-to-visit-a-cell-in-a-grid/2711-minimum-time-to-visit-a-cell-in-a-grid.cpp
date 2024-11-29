@@ -61,13 +61,13 @@ public:
                 }
             }
         }
-        for(int i=0; i<n; i++)
-        {
-            for(int j=0; j<m; j++)
-                cout << dist[i][j] << " ";
+        // for(int i=0; i<n; i++)
+        // {
+        //     for(int j=0; j<m; j++)
+        //         cout << dist[i][j] << " ";
 
-            cout << "\n";
-        }
+        //     cout << "\n";
+        // }
         return (dist[n - 1][m - 1] == 1e9) ? -1 : dist[n - 1][m - 1];
     }
 };

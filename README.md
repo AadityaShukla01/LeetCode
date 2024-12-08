@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AadityaShukla01/Leetcode/tree/master/2155-find-missing-observations) |
+| [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
+| [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/AadityaShukla01/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AadityaShukla01/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/AadityaShukla01/Leetcode/tree/master/2502-sort-the-people) |
@@ -709,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -827,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AadityaShukla01/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |

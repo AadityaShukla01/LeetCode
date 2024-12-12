@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2483-task-scheduler-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2483-task-scheduler-ii) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AadityaShukla01/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Bucket Sort

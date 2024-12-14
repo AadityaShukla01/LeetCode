@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -845,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Bucket Sort
 |  |
@@ -998,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1062,10 +1066,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/AadityaShukla01/Leetcode/tree/master/0860-design-circular-queue) |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Combinatorics
 |  |

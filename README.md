@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2089-maximum-matrix-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2089-maximum-matrix-sum) |
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1917-maximum-average-pass-ratio](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AadityaShukla01/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |

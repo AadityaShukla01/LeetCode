@@ -33,8 +33,8 @@ public:
 
                 temp[i] = node;
             }
-            for(auto it: temp) cout << it->val << " ";
-            cout << "\n";
+            // for(auto it: temp) cout << it->val << " ";
+            // cout << "\n";
             if(level % 2 == 0)
             {
                 pre = temp;

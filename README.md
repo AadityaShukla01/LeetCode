@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AadityaShukla01/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AadityaShukla01/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -957,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |

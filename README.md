@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0447-number-of-boomerangs](https://github.com/AadityaShukla01/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0474-ones-and-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/AadityaShukla01/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaShukla01/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -1078,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AadityaShukla01/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |

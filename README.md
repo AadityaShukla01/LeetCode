@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2285-design-bitset](https://github.com/AadityaShukla01/Leetcode/tree/master/2285-design-bitset) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AadityaShukla01/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AadityaShukla01/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2232-adding-spaces-to-a-string) |
 | [2285-design-bitset](https://github.com/AadityaShukla01/Leetcode/tree/master/2285-design-bitset) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2475-largest-palindromic-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2475-largest-palindromic-number) |
@@ -881,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |

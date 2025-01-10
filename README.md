@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AadityaShukla01/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AadityaShukla01/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AadityaShukla01/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/3451-string-compression-iii) |
+| [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AadityaShukla01/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |

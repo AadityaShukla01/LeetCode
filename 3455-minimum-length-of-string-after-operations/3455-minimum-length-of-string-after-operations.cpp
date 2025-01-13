@@ -2,19 +2,16 @@ class Solution {
 public:
     int minimumLength(string s) {
         int n = s.size();
-        vector<int>freq(26, 0);
-        for(auto c: s){
-            freq[c - 'a']++;
-        }
         int cnt = 0;
-        for(int i=0; i<26; i++){
-            if(freq[i] > 2){
-                while(freq[i] > 2){
-                    cnt++;
-                    freq[i] -= 2;
-                }
-            }
+        map<char, int> mp;
+        for (auto c : s)
+            mp[c]++;
+        for (auto it : mp) {
+            if (it.second % 2 == 0)
+                cnt += 2;
+            else
+                cnt++;
         }
-        return n - 2*cnt;
+        return cnt;
     }
 };

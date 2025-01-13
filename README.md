@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AadityaShukla01/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AadityaShukla01/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -1031,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AadityaShukla01/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/AadityaShukla01/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -1127,6 +1129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AadityaShukla01/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AadityaShukla01/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |

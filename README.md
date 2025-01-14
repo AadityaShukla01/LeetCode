@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/AadityaShukla01/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2808-painting-the-walls](https://github.com/AadityaShukla01/Leetcode/tree/master/2808-painting-the-walls) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2778-frequency-tracker](https://github.com/AadityaShukla01/Leetcode/tree/master/2778-frequency-tracker) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/AadityaShukla01/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -1054,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AadityaShukla01/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AadityaShukla01/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |

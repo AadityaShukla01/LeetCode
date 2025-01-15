@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2475-largest-palindromic-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2509-minimize-xor) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -1056,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AadityaShukla01/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AadityaShukla01/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AadityaShukla01/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |

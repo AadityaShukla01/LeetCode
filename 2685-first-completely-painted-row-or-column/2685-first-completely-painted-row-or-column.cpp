@@ -2,8 +2,8 @@ class Solution {
 public:
     int firstCompleteIndex(vector<int>& arr, vector<vector<int>>& mat) {
         int n = mat.size(), m = mat[0].size();
-        map<int, set<int>>row, col;
-        map<int, pair<int, int>>location;
+        unordered_map<int, unordered_set<int>>row, col;
+        unordered_map<int, pair<int, int>>location;
         for(int i=0; i<n; i++)
         {
             for(int j=0; j<m; j++)

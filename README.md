@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2685-first-completely-painted-row-or-column](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2685-first-completely-painted-row-or-column](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |

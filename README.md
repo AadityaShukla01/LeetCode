@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AadityaShukla01/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/AadityaShukla01/Leetcode/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1130,6 +1132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2145-grid-game) |
 | [2240-intervals-between-identical-elements](https://github.com/AadityaShukla01/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

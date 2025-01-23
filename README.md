@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AadityaShukla01/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AadityaShukla01/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AadityaShukla01/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AadityaShukla01/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AadityaShukla01/Leetcode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AadityaShukla01/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
 ## Binary Search
 |  |
@@ -956,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1020,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |

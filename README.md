@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaShukla01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -932,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1524-string-matching-in-an-array) |

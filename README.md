@@ -611,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AadityaShukla01/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AadityaShukla01/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AadityaShukla01/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -1207,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Doubly-Linked List
 |  |
 | ------- |

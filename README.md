@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1317-monthly-transactions-i](https://github.com/AadityaShukla01/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1480-movie-rating](https://github.com/AadityaShukla01/Leetcode/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/AadityaShukla01/Leetcode/tree/master/1523-capital-gainloss) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/AadityaShukla01/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/AadityaShukla01/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/AadityaShukla01/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |

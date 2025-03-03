@@ -9,7 +9,10 @@ public:
             if(nums[i] == el){
                 c++;
             }
-            else if(c == 0) el = nums[i];
+            else if(c == 0) {
+                el = nums[i];
+                c = 1;
+            }
             else c--;
         }
         return el;

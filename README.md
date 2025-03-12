@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AadityaShukla01/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2636-maximum-subsequence-score](https://github.com/AadityaShukla01/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -870,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-maximize-win-from-two-segments](https://github.com/AadityaShukla01/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1043,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2448-count-number-of-bad-pairs) |
 | [2475-largest-palindromic-number](https://github.com/AadityaShukla01/Leetcode/tree/master/2475-largest-palindromic-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Graph

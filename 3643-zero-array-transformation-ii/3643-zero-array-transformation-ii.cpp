@@ -1,47 +1,41 @@
 class Solution {
 public:
-    bool sol(int mi, vector<int>&nums, vector<vector<int>>&queries)
-    {
+    int sol(int mi, vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
-        vector<int>v(n + 1);
+        vector<int> v(n + 1, 0);
 
-        for(int j=0; j<=mi; j++)
-        {
-            int a = queries[j][0];
-            int b = queries[j][1];
+        for (int i = 0; i <= mi; i++) {
+            int a = queries[i][0], b = queries[i][1];
 
-            v[a]+=queries[j][2];
-            v[b + 1] -= queries[j][2];
-        }   
-        int sum = 0;
-        for(int j=0; j<n; j++)
-        {
-            sum += v[j];
+            v[a] += queries[i][2];
+            v[b + 1] -= queries[i][2];
+        }
 
-            if(sum < nums[j]) return false;
+        int curr_sum = 0;
+
+        for (int i = 0; i < n; i++) {
+            curr_sum += v[i];
+
+            if (curr_sum < nums[i])
+                return false;
         }
         return true;
     }
     int minZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
-        int lo = 0;
-        int hi = queries.size() - 1;
-        int ans = -1;
-        int f = 1;
-        for(auto el: nums)
-        {
-            if(el) f = 0;
-        }
-        if(f) return 0;
-        while(lo <= hi)
-        {
-            int mi = lo + (hi - lo)/2;
+        int n = queries.size();
+        int mx = *max_element(nums.begin(), nums.end());
+        if(!mx) return 0;
+        int lo = 0, hi = n - 1;
 
-            if(sol(mi, nums, queries))
-            {
+        int ans = -1;
+
+        while (lo <= hi) {
+            int mi = lo + (hi - lo) / 2;
+            if (sol(mi, nums, queries)) {
                 ans = mi + 1;
                 hi = mi - 1;
-            }
-            else lo = mi + 1;
+            } else
+                lo = mi + 1;
         }
         return ans;
     }

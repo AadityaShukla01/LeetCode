@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -877,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/AadityaShukla01/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |

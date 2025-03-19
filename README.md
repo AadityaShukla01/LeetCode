@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AadityaShukla01/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1167,6 +1168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/AadityaShukla01/Leetcode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -1205,6 +1207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -1241,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
@@ -1285,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-design-circular-queue](https://github.com/AadityaShukla01/Leetcode/tree/master/0860-design-circular-queue) |
 | [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |

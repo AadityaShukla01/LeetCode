@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0747-min-cost-climbing-stairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0747-min-cost-climbing-stairs) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/AadityaShukla01/Leetcode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1025-minimum-cost-for-tickets) |

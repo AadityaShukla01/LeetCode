@@ -557,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AadityaShukla01/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -1070,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
@@ -1128,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2793-count-the-number-of-complete-components) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/AadityaShukla01/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Recursion

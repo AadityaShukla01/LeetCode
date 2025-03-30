@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AadityaShukla01/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0696-count-binary-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/AadityaShukla01/Leetcode/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/AadityaShukla01/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0812-rotate-string) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/AadityaShukla01/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/AadityaShukla01/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AadityaShukla01/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/1252-break-a-palindrome) |
@@ -980,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |

@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/AadityaShukla01/Leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |

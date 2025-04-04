@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1364-tuple-with-same-product](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1364-tuple-with-same-product) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AadityaShukla01/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AadityaShukla01/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AadityaShukla01/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AadityaShukla01/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AadityaShukla01/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
@@ -1139,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1484-linked-list-in-binary-tree) |

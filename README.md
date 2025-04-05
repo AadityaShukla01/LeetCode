@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/AadityaShukla01/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/AadityaShukla01/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -1184,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AadityaShukla01/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1294,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1331,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/AadityaShukla01/Leetcode/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Geometry
 |  |
 | ------- |
@@ -1371,6 +1376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

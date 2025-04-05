@@ -1,27 +1,23 @@
 class Solution {
 public:
-    int sol(int amount,int i,vector<int>&coins,vector<vector<int>>&dp){
-        if(amount==0) return 1;
-            if(i==0){
-            if(amount%coins[i]==0)
-            return 1;
+    int dp[301][5002];
+    int sol(int i, int n, int amount, vector<int>&coins)
+    {
+        if(i >= n) return amount == 0;
+        if(dp[i][amount] != -1)
+            return dp[i][amount];
 
-            return 0;
-        }
-        if(dp[i][amount]!=-1)
-        return dp[i][amount];
-        int pick=0;
-        if(amount>=coins[i])
-        pick=sol(amount-coins[i],i,coins,dp);
+        int p = 0, np = 0;
 
-        int notPick=sol(amount,i-1,coins,dp);
-        //no of ways pucha hain isisliye add kiya
-        return dp[i][amount]=pick+notPick;
+        if(amount >= coins[i])
+            p = sol(i, n, amount - coins[i], coins);
+        np = sol(i + 1, n, amount, coins);
+
+        return dp[i][amount] = p + np;     
     }
     int change(int amount, vector<int>& coins) {
-        int size=coins.size()-1;
-        vector<vector<int>>dp(size+1,vector<int>(amount+1,-1));
-        int q=sol(amount,size,coins,dp);
-        return q;
+        int n = coins.size();
+        memset(dp, -1, sizeof(dp));
+        return sol(0, n, amount, coins);
     }
 };

@@ -1,34 +1,45 @@
 class Solution {
 public:
-    
-    
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<int>lis(nums.size(),1);
-        vector<int>store(nums.size());
-        int maxi=0;
-        int lastIndex=0;
-        for(int i=0;i<nums.size();i++){
-            store[i]=i;
-            for(int j=0;j<i;j++){
-                if(nums[i]%nums[j]==0 && lis[i]<lis[j]+1){
-                    lis[i]=lis[j]+1;
-                    store[i]=j;
+        int n = nums.size();
+        vector<int>parent(n, 0), arr(n, 1);
+        sort(nums.begin(), nums.end());
+
+        for(int i=0; i<n; i++)
+        {
+            parent[i] = i;
+            for(int j=0; j<i; j++)
+            {
+                if(nums[i] % nums[j] == 0)
+                {
+                    if(arr[i] < arr[j] + 1)
+                    {
+                        parent[i] = j;
+                        arr[i] = arr[j] + 1;
+                    }
                 }
             }
-            if(lis[i]>maxi){
-                maxi=lis[i];
-                lastIndex=i;
-            }
-        }
-        vector<int>temp;
-        temp.push_back(nums[lastIndex]);
-        while(store[lastIndex]!=lastIndex){
-            lastIndex=store[lastIndex];
-            temp.push_back(nums[lastIndex]);
         }
 
-        reverse(temp.begin(),temp.end());
-        return temp;
+        int lastIndex, mx = 0;
+        for(int i=0; i<n; i++)
+        {
+            if(arr[i] > mx)
+            {
+                mx = arr[i];
+                lastIndex = i;
+            }
+        }
+
+        vector<int>ans;
+
+        while(parent[lastIndex] != lastIndex)
+        {
+            ans.push_back(nums[lastIndex]);
+            lastIndex = parent[lastIndex];
+        }
+        ans.push_back(nums[lastIndex]);
+              
+        return ans;
     }
 };

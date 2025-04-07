@@ -1,32 +1,30 @@
 class Solution {
 public:
-   bool sol(vector<int>arr, int sum,int n,vector<vector<int>>&dp){
-        if(sum==0)
-        return true ;//empty subset {}
-        
-        if(n==0)
-        return false; //if sum!-0 && n==0 no possble subset found
-            
-        if(dp[n][sum]!=-1)//age matrix me values store kar liya to return karo answer
-        return dp[n][sum];
-        
-        if(arr[n-1]<=sum){ //include if numbe rless than sum
-            dp[n][sum]=sol(arr,sum-arr[n-1],n-1,dp) || sol(arr,sum,n-1,dp);
+    int dp[201][101 * 201];
+    bool sol(int i, int n, vector<int>&nums, int sum)
+    {
+        if(i >= n) return sum == 0;
+        if(dp[i][sum] != -1) return dp[i][sum];
+
+        bool np = sol(i + 1, n, nums, sum);
+
+        bool p = false;
+
+        if(sum >= nums[i])
+        {
+            p = sol(i + 1, n, nums, sum - nums[i]);
         }
-        else{//exclude no if no in array is less than sum
-            dp[n][sum]=sol(arr,sum,n-1,dp);
-        }
-        return dp[n][sum];
+
+        return dp[i][sum] = p || np;
     }
-        
     bool canPartition(vector<int>& nums) {
-        int sum=0;
-        for(int i=0;i<nums.size();i++){
-            sum=sum+nums[i];
-        }
-        vector<vector<int>> dp( nums.size()+1 , vector<int> (sum+1, -1));
-        if(sum % 2 != 0)
-        return false;
-        return sol(nums,sum/2,nums.size(),dp);
+        int n = nums.size();
+        int sum = 0;
+        memset(dp, -1, sizeof(dp));
+        for(auto el: nums) sum += el;
+
+        if(sum % 2) return false;
+
+        return sol(0, n, nums, sum / 2);
     }
 };

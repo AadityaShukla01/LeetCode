@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AadityaShukla01/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |

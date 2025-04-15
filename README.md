@@ -683,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3830-find-closest-person](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |

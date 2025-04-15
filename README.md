@@ -540,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3430-count-days-without-meetings) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1103,6 +1105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Graph
 |  |
 | ------- |

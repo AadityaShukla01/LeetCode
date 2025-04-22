@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Tree
 |  |
 | ------- |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AadityaShukla01/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
@@ -795,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Stack
 |  |
 | ------- |

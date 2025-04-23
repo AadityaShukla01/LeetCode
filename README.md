@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AadityaShukla01/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AadityaShukla01/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -672,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1279-prime-arrangements](https://github.com/AadityaShukla01/Leetcode/tree/master/1279-prime-arrangements) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |

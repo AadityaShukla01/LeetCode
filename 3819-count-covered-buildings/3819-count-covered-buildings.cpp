@@ -26,7 +26,6 @@ public:
 
             if(yc != x[xc].first && yc != x[xc].second){
                 if(xc != y[yc].first && xc != y[yc].second) {
-                    if(x[xc].first == 0 || y[yc].first == 0) continue;
                     cnt++;
                 }
             }

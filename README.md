@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AadityaShukla01/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2448-count-number-of-bad-pairs) |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/AadityaShukla01/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AadityaShukla01/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/AadityaShukla01/Leetcode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1266,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1310,6 +1313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2145-grid-game) |
 | [2240-intervals-between-identical-elements](https://github.com/AadityaShukla01/Leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AadityaShukla01/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/2915-count-of-interesting-subarrays) |

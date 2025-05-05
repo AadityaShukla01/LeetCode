@@ -631,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0688-knight-probability-in-chessboard](https://github.com/AadityaShukla01/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0691-stickers-to-spell-word](https://github.com/AadityaShukla01/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0747-min-cost-climbing-stairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0806-domino-and-tromino-tiling) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0972-knight-dialer](https://github.com/AadityaShukla01/Leetcode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1025-minimum-cost-for-tickets) |

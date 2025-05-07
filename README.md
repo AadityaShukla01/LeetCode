@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -786,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1098,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/AadityaShukla01/Leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1148,12 +1151,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |

@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/AadityaShukla01/Leetcode/tree/master/1310-watering-plants) |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |

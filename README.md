@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/AadityaShukla01/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AadityaShukla01/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
@@ -878,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/AadityaShukla01/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AadityaShukla01/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AadityaShukla01/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AadityaShukla01/Leetcode/tree/master/0217-contains-duplicate) |
@@ -1052,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |

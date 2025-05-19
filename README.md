@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AadityaShukla01/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AadityaShukla01/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -924,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/AadityaShukla01/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3430-count-days-without-meetings) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Union Find

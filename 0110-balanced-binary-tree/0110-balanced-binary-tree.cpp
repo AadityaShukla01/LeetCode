@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    bool ans;
-    int sol(TreeNode* root)
-    {
+    int sol(TreeNode* root, bool &ans){
         if(!root) return 0;
 
-        int l = sol(root->left);
-        int r = sol(root->right);
-        
-        if(abs(l - r) > 1) ans = false;
+        int l = sol(root->left, ans);
+        int r = sol(root->right, ans);
+
+        if(abs(r - l) > 1){
+            ans = false;
+        }
 
         return max(l, r) + 1;
     }
     bool isBalanced(TreeNode* root) {
-        ans = true;
-        sol(root);
+        bool ans = true;
+        sol(root, ans);
         return ans;
     }
 };

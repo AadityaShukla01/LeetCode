@@ -34,11 +34,6 @@ public:
             }
         }
 
-        while (pq.empty() == false) {
-            cout << pq.top().first << endl;
-            pq.pop();
-        }
-
         string ans = "";
         for (int i = 0; i < n; i++) {
             if (!mark[i])

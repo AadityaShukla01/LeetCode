@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -982,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |

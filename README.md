@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3738-make-array-non-decreasing](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3738-make-array-non-decreasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |

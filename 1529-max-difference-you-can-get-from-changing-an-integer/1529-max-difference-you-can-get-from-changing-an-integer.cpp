@@ -1,31 +1,43 @@
 class Solution {
 public:
     int maxDiff(int num) {
-        string number = to_string(num);
-        int n = number.size();
-        string maxNum;
-        for (char x = '0'; x <= '9'; x++) {   
-            for(char y = '1'; y <='9'; y++){
-                string temp = number;
-                for(int i=0; i<n; i++){
-                    if(temp[i] == x) temp[i] = y;
+        string num1 = "", num2 = "";
+
+        string s = to_string(num);
+        int n = s.size();
+        string mx = "0", mn = "99999999";
+        for (char j = '1'; j <= '9'; j++) {
+            for (char k = '0'; k <= '9'; k++) {
+                string temp = "";
+                for (int i = 0; i < n; i++) {
+                    if (s[i] == k) {
+                        temp += j;
+                    }
+                    else temp += s[i];
                 }
-                maxNum = max(maxNum, temp);
+                mx = max(mx, temp);
             }
         }
-        string minNum = "~~~~~~~~~~~";
-        for (char x = '1'; x <= '9'; x++) {   
-            for(char y = '0'; y <='9'; y++){
-                string temp = number;
-                if(temp[0] == x && y == '0') continue;
-                for(int i=0; i<n; i++){
-                    if(temp[i] == x) temp[i] = y;
+
+        for (char j = '0'; j <= '9'; j++) {
+            for (char k = '0'; k <= '9'; k++) {
+                string temp = "";
+                for (int i = 0; i < n; i++) {
+                    if(i == 0 && j == '0' && s[i] == k) {
+                        temp = "99999999";
+                        break;
+                    }
+                    if (s[i] == k) {
+                        temp += j;
+                    }
+                    else temp += s[i];
                 }
-                cout <<x <<" " << y << " " <<minNum << "\n";
-                minNum = min(minNum, temp);
+                mn = min(mn, temp);
             }
         }
-        // cout << maxNum << " " << minNum << "\n";
-        return stoi(maxNum) - stoi(minNum);
+        
+        int n1 = stoi(mn), n2 = stoi(mx);
+
+        return n2 - n1;
     }
 };

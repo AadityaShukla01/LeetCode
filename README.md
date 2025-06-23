@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/AadityaShukla01/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0045-jump-game-ii) |
@@ -974,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AadityaShukla01/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |

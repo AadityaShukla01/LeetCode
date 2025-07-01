@@ -3,12 +3,11 @@ public:
     int possibleStringCount(string word) {
         int n = word.size();
         int ans = 0;
-        for(int i=0; i<n; i++)
-        {
-            int j = i;
+        for(int i=0; i<n; i++){
+            int c = word[i];
             int cnt = 0;
-            while(j < n && word[j] == word[i])
-            {
+            int j = i;
+            while(j < n && word[j] == word[i]){
                 j++;
                 cnt++;
             }

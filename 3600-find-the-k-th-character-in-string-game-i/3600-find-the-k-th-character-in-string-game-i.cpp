@@ -1,17 +1,15 @@
 class Solution {
 public:
-    char kthCharacter(int k) {
-        string s = "a";
+    char kthCharacter(int k) { 
+        string curr = "a"; 
 
-        while(s.size() < k)
-        {
-            string temp = s;
-            for(int i=0; i<temp.size(); i++)
-            {
-                temp[i] = ((temp[i] - 'a') + 1) % 26 + 'a';
+        while(curr.size() < k){
+            string temp = curr;
+            for(int i=0; i<curr.size(); i++){
+                temp[i] = ((curr[i] + 1 - 'a') % 26) + 'a';
             }
-            s = s + temp;
+            curr = curr + temp;
         }
-        return s[k - 1];
+        return curr[k - 1];
     }
 };

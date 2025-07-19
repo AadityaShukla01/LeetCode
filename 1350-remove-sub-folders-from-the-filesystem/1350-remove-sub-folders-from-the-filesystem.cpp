@@ -1,57 +1,42 @@
 class Solution {
 public:
+    bool isPrefix(string& a, string& b) {
+        int n = min(a.size(), b.size());
+        int i = 0, cnt = 0;
+        while (i < n) {
+            if (a[i] != b[i])
+                break;
+            i++;
+            cnt++;
+        }
+
+        if (cnt == a.size()) {
+            if (b.size() > cnt)
+                return b[cnt] == '/';
+            return true;
+        }
+
+        return false;
+    }
     vector<string> removeSubfolders(vector<string>& folder) {
+        int i = 0, j = 1;
         int n = folder.size();
+        vector<int> vis(n, 0);
         sort(folder.begin(), folder.end());
-        stack<vector<string>>st;
-
-        for(auto f: folder)
-        {
-            stringstream s(f);
-            string str;
-            vector<string>v1;
-            while(getline(s, str, '/'))
-            {
-                
-                v1.push_back(str);
-                v1.push_back(",");
-            }
-
-            if(st.empty() == false)
-            {
-                vector<string>v2 = st.top();
-
-                int i = 0;
-                int j = 0;
-                while(i < v1.size() && j < v2.size())
-                {
-                    if(v1[i] == v2[j]){
-                        i++;
-                        j++;
-                    }
-                    else break;
-                }
-                if(j == v2.size()) continue;
-                st.push(v1);
-            }
-            else
-            {
-                st.push(v1);
+        while (i < n && j < n) {
+            if (isPrefix(folder[i], folder[j])) {
+                vis[j] = 1;
+                j++;
+            } else {
+                i++;
+                j = max(j, i + 1);
             }
         }
-        vector<string>ans;
-        while(st.empty() == false)
-        {
-            vector<string>v = st.top();
-            string temp = "";
-            for(int i=0; i<v.size(); i++)
-            {
-                if(i == v.size() - 1) continue;
-                if(v[i] == ",") temp += "/";
-                else temp += v[i];
-            }
-            ans.push_back(temp);
-            st.pop();
+
+        vector<string> ans;
+        for (int i = 0; i < n; i++) {
+            if (!vis[i])
+                ans.push_back(folder[i]);
         }
         return ans;
     }

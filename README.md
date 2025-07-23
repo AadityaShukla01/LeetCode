@@ -560,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AadityaShukla01/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-palindrome-partitioning-iv](https://github.com/AadityaShukla01/Leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/AadityaShukla01/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AadityaShukla01/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/AadityaShukla01/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AadityaShukla01/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |

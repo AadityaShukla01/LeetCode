@@ -3,14 +3,17 @@ public:
     int maxSum(vector<int>& nums) {
         int n = nums.size();
         map<int, int>mp;
-        for(auto el: nums)mp[el]++;
 
-        int sum = *max_element(nums.begin(), nums.end());
-        if(sum <= 0) return sum;
-        sum = 0;
-        for(auto it : mp){
-            if(it.first > 0) sum += it.first;
+        int sum = 0, mx = INT_MIN;
+
+        for(auto el: nums){
+            if(mp.find(el) == mp.end() && el > 0){
+                mp[el]++;
+                sum += el;
+            }
+            mx = max(mx, el);
         }
-        return sum;
+
+        return mp.size() == 0 ? mx : sum;
     }
 };

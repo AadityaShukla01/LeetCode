@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3738-make-array-non-decreasing](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3934-coupon-code-validator) |
 ## Tree
 |  |
@@ -834,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
 | ------- |

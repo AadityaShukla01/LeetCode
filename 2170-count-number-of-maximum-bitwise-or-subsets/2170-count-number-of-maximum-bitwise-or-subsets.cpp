@@ -1,24 +1,22 @@
 class Solution {
 public:
-    int cnt;
-    void sol(int i, int n,int orr, vector<int>&nums, int mxorr)
-    {
-        if(i >= n){
-            cnt += (orr == mxorr);
-            return;
-        }
+    int dp[16][1 << 17];
+    int sol(int i, int n, int curr, int mxOr, vector<int>& nums) {
+        if (i >= n)
+            return curr == mxOr;
+        if(dp[i][curr] != -1) return dp[i][curr];
 
-        sol(i + 1, n, orr | (nums[i]), nums, mxorr);
-        sol(i + 1, n, orr, nums, mxorr);
+        int np = sol(i + 1, n, curr, mxOr, nums);
+        int p = sol(i + 1, n, curr | nums[i], mxOr, nums);
+
+        return dp[i][curr] = p + np;
     }
     int countMaxOrSubsets(vector<int>& nums) {
         int n = nums.size();
-        int mxorr = 0;
-
-        for(auto el: nums) mxorr |= el;
-
-        sol(0, n, 0, nums, mxorr);
-
-        return cnt;
+        int mxOr = 0;
+        for (auto el : nums)
+            mxOr |= el;
+        memset(dp, -1, sizeof(dp));
+        return sol(0, n, 0, mxOr, nums);
     }
 };

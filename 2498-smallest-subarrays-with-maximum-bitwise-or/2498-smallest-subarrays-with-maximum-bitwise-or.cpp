@@ -55,7 +55,7 @@ public:
         while (j < n) {
             int num = getNum(v);
             int mx = getNum(pf);
-            cout <<j;
+            
             if (num == mx) {
                 ans[j] = (n - j);
             }

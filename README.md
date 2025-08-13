@@ -749,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AadityaShukla01/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AadityaShukla01/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AadityaShukla01/Leetcode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/AadityaShukla01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0368-largest-divisible-subset) |
@@ -1357,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AadityaShukla01/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation

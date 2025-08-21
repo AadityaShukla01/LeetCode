@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/AadityaShukla01/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1628-count-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/AadityaShukla01/Leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
@@ -871,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1628-count-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/AadityaShukla01/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1972-rotating-the-box) |
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/AadityaShukla01/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AadityaShukla01/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -959,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/AadityaShukla01/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3738-make-array-non-decreasing](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3738-make-array-non-decreasing) |
 ## Sorting

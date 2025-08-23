@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AadityaShukla01/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -969,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AadityaShukla01/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0075-sort-colors) |
@@ -1158,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AadityaShukla01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AadityaShukla01/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |

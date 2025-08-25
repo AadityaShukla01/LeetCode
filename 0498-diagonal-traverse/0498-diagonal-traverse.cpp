@@ -1,70 +1,26 @@
 class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
+        map<int, vector<int>>mp;
         int n = mat.size(), m = mat[0].size();
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                mp[i + j].push_back(mat[i][j]);
+            }
+        }
 
-        int i = 0, j = 1;
-        bool flag = true;
-        vector<int>ans(n*m);
-        int iter = 0;
-        int tot = 0;
-        while(tot < m + n - 1){
-            if(flag){
-                if(i < n){
-                    int ii = i;
-                    int jj = 0;
-                    while(ii >=0  && jj < m){
-                        ans[iter++] = mat[ii][jj];
-                        ii--;
-                        jj++;
-                    }
-                    i++;
-                }
-                else{
-                    int ii = n - 1;
-                    int jj = j;
-                    while(ii >=0  && jj < m){
-                        ans[iter++] = mat[ii][jj];
-                        ii--;
-                        jj++;
-                    }
-                    j++;
-                }
+        vector<int>ans;
+
+        for(int i=0; i<=m+n-2; i++){
+            if(i % 2){
+                vector<int>v = mp[i];
+                for(auto el: v) ans.push_back(el);
             }
             else{
-                if(i < n){
-                    int ii = i;
-                    int jj = 0;
-                    vector<int>t;
-                    while(ii >=0  && jj < m){
-                        t.push_back(mat[ii][jj]);
-                        ii--;
-                        jj++;
-                    }
-                    reverse(t.begin(), t.end());
-                    for(int it=0; it<t.size(); it++){
-                        ans[iter++] = t[it];
-                    }
-                    i++;
-                }
-                else{
-                    int ii = n - 1;
-                    int jj = j;
-                    vector<int>t;
-                    while(ii >=0  && jj < m){
-                        t.push_back(mat[ii][jj]);
-                        ii--;
-                        jj++;
-                    }
-                    reverse(t.begin(), t.end());
-                    for(int it=0; it<t.size(); it++){
-                        ans[iter++] = t[it];
-                    }
-                    j++;
-                }
+                vector<int>v = mp[i];
+                reverse(v.begin(), v.end());
+                for(auto el: v) ans.push_back(el);
             }
-            flag = !flag;
-            tot++;
         }
         return ans;
     }

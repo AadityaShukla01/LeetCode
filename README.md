@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AadityaShukla01/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AadityaShukla01/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0205-isomorphic-strings) |
@@ -1176,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaShukla01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/AadityaShukla01/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -1322,6 +1324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/AadityaShukla01/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AadityaShukla01/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/AadityaShukla01/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |

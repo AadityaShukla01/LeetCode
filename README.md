@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AadityaShukla01/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/AadityaShukla01/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0460-lfu-cache) |
 | [0508-most-frequent-subtree-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
@@ -1484,6 +1486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/AadityaShukla01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |

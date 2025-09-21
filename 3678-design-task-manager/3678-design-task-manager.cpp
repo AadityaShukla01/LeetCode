@@ -1,58 +1,48 @@
 class TaskManager {
 public:
-    map<int, int>tU;
-    typedef pair<int, int>P;
-    priority_queue<P>pq;
-    map<int, int>tP;
+    map<int, int>taskUserMap;
+    map<int, int>taskPriorityMap;
+    priority_queue<pair<int, int>>pq;
     TaskManager(vector<vector<int>>& tasks) {
-        for(auto task: tasks)
-        {
-            int userId = task[0];
-            int taskId = task[1];
-            int priority = task[2];
-
-            pq.push({priority, taskId});
-
-            tP[taskId] = priority;
-            tU[taskId] = userId;
+        for(auto t: tasks){
+            pq.push({t[2], t[1]});
+            taskUserMap[t[1]] = t[0];
+            taskPriorityMap[t[1]] = t[2];
         }
     }
     
     void add(int userId, int taskId, int priority) {
-        tU[taskId] = userId;
-        tP[taskId] = priority;
+        taskUserMap[taskId] = userId;
+        taskPriorityMap[taskId] = priority;
         pq.push({priority, taskId});
     }
     
     void edit(int taskId, int newPriority) {
-        tP[taskId] = newPriority;
+        taskPriorityMap[taskId] = newPriority;
         pq.push({newPriority, taskId});
     }
     
     void rmv(int taskId) {
-        tP.erase(taskId);
-        tU.erase(taskId);
+        taskUserMap.erase(taskId);
+        taskPriorityMap.erase(taskId);
     }
     
     int execTop() {
-        while(pq.empty() == false)
-        {
+        while(pq.empty() == false){
             auto it = pq.top();
-            pq.pop();
-            
+            int priority = it.first;
+            int taskId = it.second;
+            cout << taskId << " " << priority << endl; 
+            if(taskPriorityMap.find(taskId) != taskPriorityMap.end() &&
+             taskPriorityMap[taskId] == priority) {
+                pq.pop();
 
-            if(tP.find(it.second) == tP.end())
-                continue;
-
-            if(tP[it.second] != it.first) 
-                continue;
-                
-            int a = tU[it.second];
-
-            tP.erase(it.second);
-            tU.erase(it.second);
-
-            return a; 
+                int res = taskUserMap[taskId];
+                taskUserMap.erase(taskId);
+                taskPriorityMap.erase(taskId);
+                return res;
+            }
+            else pq.pop();
         }
         return -1;
     }

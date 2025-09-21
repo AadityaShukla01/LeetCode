@@ -32,7 +32,7 @@ public:
             auto it = pq.top();
             int priority = it.first;
             int taskId = it.second;
-            cout << taskId << " " << priority << endl; 
+             
             if(taskPriorityMap.find(taskId) != taskPriorityMap.end() &&
              taskPriorityMap[taskId] == priority) {
                 pq.pop();

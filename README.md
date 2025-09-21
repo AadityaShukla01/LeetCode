@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3634-find-mirror-score-of-a-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3934-coupon-code-validator](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3934-coupon-code-validator) |
@@ -1129,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2285-design-bitset](https://github.com/AadityaShukla01/Leetcode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2434-design-a-number-container-system) |
 | [2778-frequency-tracker](https://github.com/AadityaShukla01/Leetcode/tree/master/2778-frequency-tracker) |
+| [3678-design-task-manager](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3678-design-task-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1168,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2434-design-a-number-container-system](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -1255,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |

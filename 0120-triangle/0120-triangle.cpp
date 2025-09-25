@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int sol(int i, int j,vector<vector<int>>& triangle,vector<vector<int>>& dp){
-        if(i==triangle.size()-1)
-        return triangle[triangle.size()-1][j];
+    int dp[201][201];
+    int sol(int i, int n, int j, vector<vector<int>>& triangle){
+        if(i == n || j >= triangle[i].size()) return 1e9;
+        // int ans = 1e9;
+        if(dp[i][j] != -1)
+            return dp[i][j];
+        int ans = 0;
+        int a1 = sol(i+1, n, j, triangle) + triangle[i][j];
+        int a2 = sol(i+1, n, j+1, triangle) + triangle[i][j];
 
-        if(dp[i][j]!=-1)
-        return dp[i][j];
-
-        int down=triangle[i][j] +sol(i+1,j,triangle,dp);
-        int diagonal=triangle[i][j]+sol(i+1,j+1,triangle,dp);
-
-        return dp[i][j]=min(down,diagonal);
-        
+        ans += min(a1, a2);
+        return dp[i][j] = ans;
     }
     int minimumTotal(vector<vector<int>>& triangle) {
-        int n=triangle.size();
-        vector<vector<int>> dp(n,vector<int>(n,-1));
-        return sol(0,0,triangle,dp);
+        int n = triangle.size();
+        memset(dp, -1, sizeof(dp));
+        return sol(0, n, 0, triangle) - 1e9;
     }
 };

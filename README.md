@@ -792,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AadityaShukla01/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/AadityaShukla01/Leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -919,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/AadityaShukla01/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/AadityaShukla01/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1310-watering-plants](https://github.com/AadityaShukla01/Leetcode/tree/master/1310-watering-plants) |
+| [1642-water-bottles](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AadityaShukla01/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/2048-build-array-from-permutation) |

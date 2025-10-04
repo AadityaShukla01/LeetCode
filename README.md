@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AadityaShukla01/Leetcode/tree/master/0051-n-queens) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AadityaShukla01/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AadityaShukla01/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AadityaShukla01/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |

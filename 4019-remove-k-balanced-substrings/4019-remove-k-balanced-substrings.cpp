@@ -58,8 +58,6 @@ public:
         while (st.empty() == false) {
             auto it = st.top();
 
-            cout << it.first << " " << it.second << endl;
-
             st.pop();
             char c = it.first;
             int f = it.second;

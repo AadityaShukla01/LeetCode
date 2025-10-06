@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0835-linked-list-components](https://github.com/AadityaShukla01/Leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/AadityaShukla01/Leetcode/tree/master/0859-design-circular-deque) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AadityaShukla01/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AadityaShukla01/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/AadityaShukla01/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/AadityaShukla01/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
@@ -1059,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AadityaShukla01/Leetcode/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AadityaShukla01/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/AadityaShukla01/Leetcode/tree/master/2035-count-sub-islands) |
@@ -1085,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AadityaShukla01/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/AadityaShukla01/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1245,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/AadityaShukla01/Leetcode/tree/master/0621-task-scheduler) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/AadityaShukla01/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -1373,6 +1379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/AadityaShukla01/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |

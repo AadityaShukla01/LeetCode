@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/AadityaShukla01/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AadityaShukla01/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/AadityaShukla01/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AadityaShukla01/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AadityaShukla01/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1035-cousins-in-binary-tree) |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/AadityaShukla01/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AadityaShukla01/Leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AadityaShukla01/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0794-swim-in-rising-water) |
@@ -1236,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1524-string-matching-in-an-array) |
@@ -1627,6 +1631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bitmask

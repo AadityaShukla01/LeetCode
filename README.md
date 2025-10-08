@@ -713,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AadityaShukla01/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AadityaShukla01/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/AadityaShukla01/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -1424,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/AadityaShukla01/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AadityaShukla01/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/AadityaShukla01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/AadityaShukla01/Leetcode/tree/master/0476-number-complement) |

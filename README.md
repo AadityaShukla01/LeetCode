@@ -831,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3830-find-closest-person](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3830-find-closest-person) |
 ## Greedy
@@ -1466,6 +1467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3394-minimum-array-end](https://github.com/AadityaShukla01/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Trie
 |  |
 | ------- |

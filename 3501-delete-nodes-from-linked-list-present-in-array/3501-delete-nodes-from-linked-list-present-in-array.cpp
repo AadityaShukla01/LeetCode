@@ -11,27 +11,20 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        set<int>set;
+        ListNode* temp = new ListNode(-1);
+        ListNode* dummy = temp;
+        ListNode* curr =head;
+        unordered_set<int>set;
         for(auto el: nums) set.insert(el);
 
-
-        while(head && set.find(head->val) != set.end()){
-            head = head->next;
-        }
-
-        if(!head) return NULL;
-        ListNode* curr = head;
-
         while(curr){
-            ListNode* temp = curr->next;
-
-            while(temp && set.find(temp->val) != set.end()){
+            if(set.find(curr->val) == set.end()){
+                temp->next = curr;
                 temp = temp->next;
             }
-
-            curr->next = temp;
             curr = curr->next;
         }
-        return head;
+        temp->next = NULL;
+        return dummy->next;
     }
 };

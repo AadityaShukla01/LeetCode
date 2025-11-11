@@ -1,28 +1,34 @@
 class Solution {
 public:
-    pair<int, int>count(string &s)
-    {
-        int o = 0, z = 0;
+    vector<int> calculate(string &s){
+        int ones = 0, zeroes = 0;
+
         for(auto c: s){
-            if(c == '0') z++;
-            else o++;
+            if(c == '0') zeroes++;
+            else ones++;
         }
-        return {o, z};
+
+        return {zeroes, ones};
     }
-    int sol(int i, vector<string>&strs, int o, int z, int m, int n)
-    {
+    int dp[601][101][101];
+    int sol(int i, vector<string>&strs, int m, int n){
         if(i >= strs.size()) return 0;
 
+        if(dp[i][m][n] != -1) return dp[i][m][n];
+
+        int np = sol(i + 1, strs, m, n);
         int p = 0;
-        pair<int, int>cnt = count(strs[i]);
-        
-        if(cnt.first + o <= n && cnt.second + z <= m){
-            p = sol(i + 1, strs, cnt.first + o, cnt.second + z, m, n) + 1;
+
+        vector<int> result = calculate(strs[i]);
+
+        if(m - result[0] >= 0 && n - result[1] >= 0){
+            p = sol(i + 1, strs, m - result[0], n - result[1]) + 1;
         }
-        int np = sol(i + 1, strs, o, z, m, n);
-        return max(p, np);
+
+        return dp[i][m][n] = max(p, np);
     }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        return sol(0, strs, 0, 0, m, n);
+        memset(dp, -1, sizeof(dp));
+        return sol(0, strs, m, n);
     }
 };

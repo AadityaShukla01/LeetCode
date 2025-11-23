@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/AadityaShukla01/Leetcode/tree/master/1310-watering-plants) |
@@ -752,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1063-best-sightseeing-pair) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/AadityaShukla01/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/AadityaShukla01/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaShukla01/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AadityaShukla01/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/AadityaShukla01/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/AadityaShukla01/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AadityaShukla01/Leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -1049,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1353-find-resultant-array-after-removing-anagrams) |

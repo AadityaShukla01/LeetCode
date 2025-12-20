@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/AadityaShukla01/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/AadityaShukla01/Leetcode/tree/master/0971-shortest-bridge) |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/AadityaShukla01/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/AadityaShukla01/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AadityaShukla01/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AadityaShukla01/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AadityaShukla01/Leetcode/tree/master/0962-flip-string-to-monotone-increasing) |

@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/AadityaShukla01/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AadityaShukla01/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1364-tuple-with-same-product) |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/AadityaShukla01/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/AadityaShukla01/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AadityaShukla01/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AadityaShukla01/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1132,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/AadityaShukla01/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1294-range-frequency-queries](https://github.com/AadityaShukla01/Leetcode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/AadityaShukla01/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AadityaShukla01/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/AadityaShukla01/Interview-Preparation/tree/master/1646-kth-missing-positive-number) |
